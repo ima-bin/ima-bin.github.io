@@ -6,7 +6,7 @@ period: "2024"
 role: "Product Owner / Product Designer"
 summary: "다이어트·스킨케어 특화 비대면진료 서비스 ‘뷰티나우’를 기획부터 출시까지 리드한 프로젝트."
 stack: ["Figma", "Product Planning", "Marketing Analytics"]
-thumbnail: ""
+thumbnail: "/assets/images/project-beautynow.svg"
 ---
 ## 문제 정의
 기존 의료 서비스 내에서 뷰티/라이프스타일 니즈에 특화된 사용자 기대를 만족시키기 어려웠고, 별도 가치 제안과 전용 경험 설계가 필요했습니다.

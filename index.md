@@ -3,16 +3,22 @@ layout: default
 title: Home
 permalink: /
 ---
-<section class="hero">
-  <p class="kicker">Product Designer · Product Owner</p>
-  <h1 class="h1">데이터로 사용자 행동을 설계하고,<br/>제품 성장을 만드는 디자이너 Ima Bin</h1>
-  <p class="sub">
-    일본·한국 시장에서 의료, 광고, 게임 도메인을 경험하며<br/>
-    UX 개선, 퍼널 분석, A/B 테스트 기반으로 출시부터 성장까지 리드해왔습니다.
-  </p>
-  <div class="hero-cta">
-    <a class="btn btn-dark" href="{{ '/portfolio/' | relative_url }}">프로젝트 보기</a>
-    <a class="btn" href="{{ '/resume/' | relative_url }}">경력 보기</a>
+<section class="hero hero-profile">
+  <div class="hero-text">
+    <p class="kicker">Product Designer · Product Owner</p>
+    <h1 class="h1">데이터로 사용자 행동을 설계하고,<br/>제품 성장을 만드는 디자이너 Ima Bin</h1>
+    <p class="sub">
+      일본·한국 시장에서 의료, 광고, 게임 도메인을 경험하며<br/>
+      UX 개선, 퍼널 분석, A/B 테스트 기반으로 출시부터 성장까지 리드해왔습니다.
+    </p>
+    <div class="hero-cta">
+      <a class="btn btn-dark" href="{{ '/portfolio/' | relative_url }}">프로젝트 보기</a>
+      <a class="btn" href="{{ '/resume/' | relative_url }}">경력 보기</a>
+    </div>
+  </div>
+  <div class="hero-photo-wrap">
+    <img class="hero-photo" src="{{ '/assets/images/profile-placeholder.svg' | relative_url }}" alt="Ima Bin Profile" />
+    <p class="photo-hint">※ 실제 프로필 사진으로 교체: <code>/assets/images/profile.jpg</code></p>
   </div>
 </section>
 

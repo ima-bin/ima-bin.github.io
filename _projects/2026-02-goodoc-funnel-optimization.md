@@ -6,7 +6,7 @@ period: "2022.09 - 2023.12"
 role: "Product Designer / Design Chapter Lead"
 summary: "의료 비급여 광고 플랫폼에서 퍼널 데이터와 A/B 테스트로 핵심 전환 경험을 개선한 프로젝트."
 stack: ["Figma", "Amplitude", "Hackle"]
-thumbnail: ""
+thumbnail: "/assets/images/project-goodoc-funnel.svg"
 ---
 ## 문제 정의
 핵심 전환 단계에서 이탈이 크게 발생하고 있어, 감이 아닌 데이터 기반의 개선 체계가 필요했습니다.
