@@ -8,18 +8,13 @@ collections:
     permalink: /projects/:name/
 
 navigation:
-  - title_ko: "Portfolio"
-    title_en: "Portfolio"
+  - title: "Portfolio"
     url: "/portfolio/"
-  - title_ko: "Career"
-    title_en: "Resume"
+  - title: "Career"
     url: "/resume/"
-  - title_ko: "About"
-    title_en: "About"
+  - title: "About"
     url: "/about/"
-  - title_ko: "Blog"
-    title_en: "Blog"
+  - title: "Blog"
     url: "/blog/"
-  - title_ko: "Contact"
-    title_en: "Contact"
+  - title: "Contact"
     url: "/contact/"

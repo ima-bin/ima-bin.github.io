@@ -12,7 +12,7 @@
     <div class="wrap nav">
       <a class="brand" href="{{ '/' | relative_url }}">Ima Bin · Product Portfolio</a>
       {% for item in site.navigation %}
-      <a href="{{ item.url | relative_url }}">{{ item.title_ko }} · {{ item.title_en }}</a>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
       {% endfor %}
     </div>
   </header>
