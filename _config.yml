@@ -1,0 +1,46 @@
+title: "Aabin Lim | Designer"
+description: "끝까지 파고드는 디자이너 임아빈"
+baseurl: ""
+url: "https://ima-bin.github.io"
+lang: ko
+timezone: Asia/Seoul
+
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+collections:
+  projects:
+    output: true
+    permalink: /portfolio/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: project
+
+navigation:
+  - title_ko: "홈"
+    title_en: "Home"
+    url: "/"
+  - title_ko: "포트폴리오"
+    title_en: "Portfolio"
+    url: "/portfolio/"
+  - title_ko: "블로그"
+    title_en: "Blog"
+    url: "/blog/"
+  - title_ko: "소개"
+    title_en: "About"
+    url: "/about/"
+  - title_ko: "이력"
+    title_en: "Resume"
+    url: "/resume/"
+  - title_ko: "연락"
+    title_en: "Contact"
+    url: "/contact/"

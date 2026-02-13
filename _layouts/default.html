@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+</head>
+<body>
+  <header class="header">
+    <div class="wrap nav">
+      <a class="brand" href="{{ '/' | relative_url }}">임아빈 / Aabin Lim</a>
+      {% for item in site.navigation %}
+      <a href="{{ item.url | relative_url }}">{{ item.title_ko }} · {{ item.title_en }}</a>
+      {% endfor %}
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="footer wrap">
+    <div>© {{ 'now' | date: '%Y' }} 임아빈(Aabin Lim)</div>
+    <div>Contact: <a href="mailto:abinmobile@gmail.com">abinmobile@gmail.com</a></div>
+  </footer>
+</body>
+</html>
