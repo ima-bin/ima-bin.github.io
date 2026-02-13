@@ -1,35 +1,39 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 <section class="hero">
-  <p class="kicker">Designer Portfolio</p>
-  <h1 class="h1">안녕하세요, 끝까지 파고드는 디자이너 임아빈입니다.</h1>
-  <p class="sub">I design clear digital experiences backed by data and iteration. Minimal visuals, strong intent, measurable outcomes.</p>
-  <p class="meta">Profile image: <code>assets/images/profile.jpg</code> 로 교체하세요.</p>
-</section>
-
-<section class="section">
-  <h2>핵심 기술 · Core Skills</h2>
-  <div>
-    <span class="badge">Figma</span>
-    <span class="badge">Adobe Photoshop</span>
-    <span class="badge">After Effects</span>
-    <span class="badge">Illustrator</span>
+  <p class="kicker">Product Designer · Product Owner</p>
+  <h1 class="h1">데이터로 사용자 행동을 설계하고,<br/>제품 성장을 만드는 디자이너 Ima Bin</h1>
+  <p class="sub">
+    일본·한국 시장에서 의료, 광고, 게임 도메인을 경험하며<br/>
+    UX 개선, 퍼널 분석, A/B 테스트 기반으로 출시부터 성장까지 리드해왔습니다.
+  </p>
+  <div class="hero-cta">
+    <a class="btn btn-dark" href="{{ '/portfolio/' | relative_url }}">프로젝트 보기</a>
+    <a class="btn" href="{{ '/resume/' | relative_url }}">경력 보기</a>
   </div>
 </section>
 
 <section class="section">
-  <h2>강점 · Strengths</h2>
-  <ul>
-    <li>데이터 분석 기반 UI/UX 개선</li>
-    <li>Meta 중심 마케팅 디자인 제작 및 성과 분석</li>
-    <li>문제 정의 → 실험 → 개선의 반복 프로세스 운영</li>
-  </ul>
-</section>
-
-<section class="section">
-  <h2>바로가기 · Quick Links</h2>
-  <p><a href="{{ '/portfolio/' | relative_url }}">포트폴리오 보기 →</a></p>
-  <p><a href="{{ '/blog/' | relative_url }}">블로그 보기 →</a></p>
+  <h2>핵심 강점</h2>
+  <div class="grid">
+    <article class="card">
+      <h3>Design × PO × Marketing</h3>
+      <p>디자인, 제품 기획, 마케팅 실행/분석을 연결해 End-to-End로 문제를 해결합니다.</p>
+    </article>
+    <article class="card">
+      <h3>KR/JP 시장 실행 경험</h3>
+      <p>일본 시장 리서치·로컬라이징·런칭을 직접 리드하며 시장 적합성을 빠르게 검증했습니다.</p>
+    </article>
+    <article class="card">
+      <h3>Data-driven Decision</h3>
+      <p>Amplitude/실험 설계를 통해 가설을 검증하고, 성과 중심으로 디자인 우선순위를 결정합니다.</p>
+    </article>
+    <article class="card">
+      <h3>Cross-functional Communication</h3>
+      <p>개발·마케팅·운영과의 긴밀한 협업으로 KPI에 맞춰 실행 속도를 높입니다.</p>
+    </article>
+  </div>
 </section>

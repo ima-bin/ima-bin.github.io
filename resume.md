@@ -4,29 +4,54 @@ title: Resume
 permalink: /resume/
 ---
 <section class="section">
-  <h1 class="h1">경력/활동/수상/자격증 · Resume</h1>
+  <h1 class="h1">경력 · Resume</h1>
 
-  <h2>경력 · Experience (Dummy)</h2>
-  <div class="card">
-    <p><strong>2024.03 - 현재</strong> | Product Designer, Studio Placeholder</p>
-    <p>웹/앱 UI 개선, 전환 퍼널 설계, A/B 테스트 기반 반복 개선을 담당.</p>
+  <div class="card" style="margin-bottom:12px;">
+    <h3>닥터나우 (Dr.Now) · Product Designer / Product Owner</h3>
+    <p class="meta">2024.01 - Present · 일본 사업부(6명)</p>
+    <ul>
+      <li>일본 비대면진료 서비스 런칭: 사용자 조사, 로컬라이징, 마케팅, 출시 리드</li>
+      <li>Meta·Google·Apple Search Ads 집행/분석 및 퍼널 기반 기능 기획</li>
+      <li>다이어트·스킨케어 특화 비대면진료 서비스 ‘뷰티나우’ 런칭</li>
+    </ul>
   </div>
 
-  <h2>활동 · Activities (Dummy)</h2>
-  <div class="card">
-    <p><strong>2023</strong> | Design Community Organizer</p>
-    <p>디자인 스터디 운영 및 포트폴리오 피드백 세션 기획.</p>
+  <div class="card" style="margin-bottom:12px;">
+    <h3>굿닥 (Goodoc) · Product Designer / Design Chapter Lead</h3>
+    <p class="meta">2022.09 - 2023.12 · 클리닉 스쿼드(15명), 챕터 리드(6명)</p>
+    <ul>
+      <li>의료 비급여 광고 플랫폼 UX 디자인</li>
+      <li>Amplitude 퍼널 분석 및 Hackle A/B 테스트 기반 개선</li>
+      <li>앱 전체 디자인시스템/플랫폼 품질 관리 리드</li>
+    </ul>
   </div>
 
-  <h2>수상 · Awards (Dummy)</h2>
-  <div class="card">
-    <p><strong>2022</strong> | UX Case Competition Finalist</p>
-    <p>데이터 기반 리디자인 제안으로 결선 진출.</p>
+  <div class="card" style="margin-bottom:12px;">
+    <h3>프리랜서 · Product/UIUX Designer</h3>
+    <p class="meta">2020.05 - 2022.09</p>
+    <ul>
+      <li>오노약품(일본) 암환자 커뮤니티·일정관리 툴 ‘Siens’ 디자인</li>
+      <li>프리미엄 데이팅 서비스 앱 UI 및 컴포넌트 설계</li>
+      <li>블록체인 기반 중고거래+보안메신저 앱 플로우 설계/핸드오프</li>
+    </ul>
   </div>
 
-  <h2>자격증 · Certificates (Dummy)</h2>
+  <div class="card" style="margin-bottom:12px;">
+    <h3>CyberAgent Korea · Designer & Marketer</h3>
+    <p class="meta">2016.09 - 2020.02</p>
+    <ul>
+      <li>광고 크리에이티브 제작/디렉션 및 개선안 도출</li>
+      <li>광고주 획득 목적의 세일즈 크리에이티브 제작</li>
+    </ul>
+  </div>
+
   <div class="card">
-    <p><strong>GA4 Certification</strong> (예시)</p>
-    <p><strong>GTQ/ACP</strong> (예시)</p>
+    <h3>CyberAgent Japan · Product Designer</h3>
+    <p class="meta">2012.04 - 2020.02</p>
+    <ul>
+      <li>모바일 게임 신규개발부서 디자인 총괄 및 팀 리드</li>
+      <li>‘밀리언아서 엑스터시스’ 기획~출시~운영 전 과정 디자인 총괄</li>
+      <li>‘Ameba Meister’, ‘Girl Up’ 등 서비스 기획/UX/운영 경험</li>
+    </ul>
   </div>
 </section>

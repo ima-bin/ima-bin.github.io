@@ -5,11 +5,23 @@ permalink: /about/
 ---
 <section class="section">
   <h1 class="h1">소개 · About</h1>
-  <h2>KO</h2>
-  <p>안녕하세요. 사용자 행동 데이터를 근거로 문제를 정의하고, 화면 설계를 통해 결과를 개선하는 디자이너 임아빈입니다. 저는 ‘예쁜 화면’보다 ‘작동하는 경험’을 우선합니다. 작은 마이크로카피부터 전체 퍼널 구조까지, 사용자가 실제로 더 쉽게 이해하고 더 빠르게 행동하도록 만드는 데 집중합니다.</p>
-  <p>실무에서는 Figma를 중심으로 Photoshop, Illustrator, After Effects를 함께 활용해 브랜드와 제품의 톤을 일관되게 구축합니다. 또한 캠페인 단위의 마케팅 디자인을 제작한 뒤 성과 지표를 분석해 다음 실험으로 연결하는 루프를 중요하게 생각합니다.</p>
+  <div class="card">
+    <p>
+      고등학교 시절 일본 유학(이공계 한일공동국비장학생) 이후, 일본과 한국에서 게임·광고·의료 분야의 프로덕트 디자인을 수행해왔습니다.
+      저는 UX의 작은 변화가 사용자 행동을 크게 바꾼다는 점에 매력을 느끼며,
+      데이터를 통해 문제를 정의하고 결과를 검증하는 방식으로 일합니다.
+    </p>
+    <p>
+      최근에는 디자인을 넘어 Product Owner 및 마케팅 실행 역할까지 확장해,
+      서비스 런칭과 성장 전 과정을 End-to-End로 리드하고 있습니다.
+    </p>
+  </div>
 
-  <h2>EN</h2>
-  <p>Hello, I’m Aabin Lim, a designer who defines problems through user behavior data and improves outcomes through intentional interface design. I value “working experiences” over decorative visuals. From microcopy to full funnel structure, I focus on helping users understand faster and act with less friction.</p>
-  <p>In practice, I work primarily in Figma, supported by Photoshop, Illustrator, and After Effects to maintain consistent product and brand tone. I also create performance-oriented marketing creatives and use analytics to iterate with clear hypotheses.</p>
+  <h2>Working Style</h2>
+  <div class="grid">
+    <article class="card"><h3>Problem First</h3><p>문제 정의와 KPI를 먼저 정렬하고, 솔루션은 실험으로 빠르게 검증합니다.</p></article>
+    <article class="card"><h3>Quant + Qual</h3><p>퍼널/로그 데이터와 사용자 맥락을 함께 보며 실행 우선순위를 결정합니다.</p></article>
+    <article class="card"><h3>Cross-functional</h3><p>디자인·개발·마케팅·운영 간 커뮤니케이션을 촘촘하게 연결합니다.</p></article>
+    <article class="card"><h3>Continuous Growth</h3><p>“어제보다 조금 더 나아지기”를 기준으로 반복 학습하고 개선합니다.</p></article>
+  </div>
 </section>
