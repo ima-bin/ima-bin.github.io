@@ -46,7 +46,7 @@ permalink: /resume/
       </li>
       <li><strong>B. 프리미엄 데이팅 서비스 ((주)둥글)</strong> · 2020.09 - 2021.01
         <ul>
-          <li>엄선된 인증 회원 기반 매칭 서비스 앱 디자인</li>
+          <li>엄선된 인증 회원(직장/재력/외모 등) 기반 매칭 서비스 앱 디자인</li>
           <li>앱 디자인, 컴포넌트, 프로토타입 제작</li>
           <li>사용 툴: Sketch, Zeplin</li>
         </ul>
@@ -62,21 +62,42 @@ permalink: /resume/
   </div>
 
   <div class="card" style="margin-bottom:12px;">
-    <h3>CyberAgent Korea · Designer & Marketer</h3>
-    <p class="meta">2016.09 - 2020.02</p>
+    <h3>CyberAgent, Inc. (한국) · Designer & Marketer</h3>
+    <p class="meta">2016.09 - 2020.02 (3년 6개월) · 사원수 약 10명 · 글로벌 광고대행</p>
     <ul>
-      <li>광고 크리에이티브 제작/디렉션 및 개선안 도출</li>
-      <li>광고주 획득 목적의 세일즈 크리에이티브 제작</li>
+      <li>광고대행팀 크리에이티브 제작 및 디렉션</li>
+      <li>광고주 획득을 위한 크리에이티브 로컬라이징 및 소재 제작(2D, 영상)</li>
+      <li>광고소재 성과 분석 및 광고 개선안 제시</li>
     </ul>
   </div>
 
   <div class="card">
-    <h3>CyberAgent Japan · Product Designer</h3>
-    <p class="meta">2012.04 - 2020.02</p>
+    <h3>CyberAgent, Inc. (일본) · Product Designer</h3>
+    <p class="meta">2012.04 - 2016.09 (4년 6개월) · 사원수 약 3,000명</p>
     <ul>
-      <li>모바일 게임 신규개발부서 디자인 총괄 및 팀 리드</li>
-      <li>‘밀리언아서 엑스터시스’ 기획~출시~운영 전 과정 디자인 총괄</li>
-      <li>‘Ameba Meister’, ‘Girl Up’ 등 서비스 기획/UX/운영 경험</li>
+      <li><strong>A. 모바일 게임 신규개발부서 디자인 총괄</strong> · 2014.02 - 2016.09 (부서 약 60명, 디자인팀 리드 4명)
+        <ul>
+          <li>게임 신규개발팀 디자이너/일러스트레이터 일정 및 퀄리티 관리</li>
+          <li><strong>A-1. ‘밀리언아서 엑스터시스’ 출시(MMORPG):</strong> 신규기획~출시~운영 전 과정에서 기획, 디자인 컨셉, UI, 퀄리티 총괄</li>
+          <li><strong>A-2. ‘캐논’ IP 신규 게임 출시 준비(여성향 아이돌 육성):</strong> 톤앤매너, 스토리 컨셉, 프로토타입, 로고 제작</li>
+        </ul>
+      </li>
+      <li><strong>B. ‘Ameba Meister’ 인플루언서 플랫폼 출시/운영</strong> · 2013.02 - 2014.01 (약 12명 팀)
+        <ul>
+          <li>광고주-인플루언서를 입찰 방식으로 연결하는 웹 플랫폼</li>
+          <li>담당: 서비스 기획, UI/UX 디자인, 운영 스탭 및 영업 직무 수행</li>
+          <li>습득 역량: 서비스 브랜딩, 바이럴 마케팅, BM 설계, 고객사 영업</li>
+          <li>사용 툴: Photoshop, HTML/CSS</li>
+        </ul>
+      </li>
+      <li><strong>C. ‘Girl Up’ 여성향 뷰티 커뮤니티 출시/운영</strong> · 2012.04 - 2013.01 (약 6명 팀)
+        <ul>
+          <li>"여자력" 특화 여성 전용 커뮤니티(트위터 벤치마킹) 서비스</li>
+          <li>담당: 톤앤매너 확립, UI/UX 디자인, 디자인 드래프트 기반 PO-개발 커뮤니케이션</li>
+          <li>웹디자인/퍼블리싱 기초 습득 및 A-Z 업무 전반 수행(오프라인 전단 배포 포함)</li>
+          <li>사용 툴: Photoshop, HTML/CSS</li>
+        </ul>
+      </li>
     </ul>
   </div>
 </section>
