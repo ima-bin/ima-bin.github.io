@@ -25,5 +25,46 @@
     <div>© {{ 'now' | date: '%Y' }} Im Abin</div>
     <div>Contact: <a href="mailto:abinmobile@gmail.com">abinmobile@gmail.com</a></div>
   </footer>
+
+  <div id="imgLightbox" class="img-lightbox" aria-hidden="true">
+    <button class="img-lightbox-close" id="imgLightboxClose" aria-label="Close image">✕</button>
+    <img id="imgLightboxImage" src="" alt="Expanded image" />
+  </div>
+
+  <script>
+    (function () {
+      const lightbox = document.getElementById('imgLightbox');
+      const lightboxImg = document.getElementById('imgLightboxImage');
+      const closeBtn = document.getElementById('imgLightboxClose');
+      if (!lightbox || !lightboxImg || !closeBtn) return;
+
+      const projectImages = document.querySelectorAll('.section img');
+      projectImages.forEach((img) => {
+        img.classList.add('zoomable-image');
+        img.addEventListener('click', () => {
+          lightboxImg.src = img.src;
+          lightboxImg.alt = img.alt || 'Expanded image';
+          lightbox.classList.add('open');
+          lightbox.setAttribute('aria-hidden', 'false');
+          document.body.style.overflow = 'hidden';
+        });
+      });
+
+      function closeLightbox() {
+        lightbox.classList.remove('open');
+        lightbox.setAttribute('aria-hidden', 'true');
+        lightboxImg.src = '';
+        document.body.style.overflow = '';
+      }
+
+      closeBtn.addEventListener('click', closeLightbox);
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) closeLightbox();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && lightbox.classList.contains('open')) closeLightbox();
+      });
+    })();
+  </script>
 </body>
 </html>
