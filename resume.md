@@ -20,12 +20,15 @@ permalink: /resume/
   </div>
 
   <div class="card" style="margin-bottom:12px;">
-    <h3>굿닥 (Goodoc) · Product Designer / Design Chapter Lead</h3>
-    <p class="meta">2022.09 - 2023.12 · 클리닉 스쿼드(15명), 챕터 리드(6명)</p>
+    <h3>굿닥 (Goodoc) · Product Designer / Lead Designer</h3>
+    <p class="meta">2022.09 - 2023.12 (1년 4개월) · 사원수 약 90명 · 클리닉 스쿼드(15명), 디자인 챕터 리드(6명)</p>
     <ul>
-      <li>의료 비급여 광고 플랫폼 UX 디자인</li>
-      <li>Amplitude 퍼널 분석 및 Hackle A/B 테스트 기반 개선</li>
-      <li>앱 전체 디자인시스템/플랫폼 품질 관리 리드</li>
+      <li><strong>역할:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
+      <li><strong>데이터 기반 개선:</strong> Amplitude 유저 퍼널 분석 결과를 화면/플로우 개선에 반영</li>
+      <li><strong>실험 기반 검증:</strong> Hackle 기반 디자인 A/B 테스트 설계 및 실행</li>
+      <li><strong>챕터 리드:</strong> 전사 디자인 컨셉과 UX 방향성 정립</li>
+      <li><strong>플랫폼 품질 관리:</strong> 챕터 디자이너와 함께 앱 전반 디자인시스템 및 일관 UX 운영</li>
+      <li><strong>사용 툴:</strong> Figma</li>
     </ul>
   </div>
 
