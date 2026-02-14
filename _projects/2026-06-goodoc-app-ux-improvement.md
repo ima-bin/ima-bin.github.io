@@ -6,7 +6,7 @@ period: "2022 - 2023"
 role: "Design Chapter Lead"
 summary: "챕터 리드로서 앱 전반 UX 개선안을 제안하고, 각 스쿼드 PO/FE와 합의해 실행한 프로젝트."
 stack: ["Figma", "Design System", "Cross-squad Collaboration", "UX Improvement"]
-thumbnail: "/assets/images/pdf-downsize/page-03.jpg"
+thumbnail: "/assets/images/goodoc-ux-0415/page-01.jpg"
 ---
 ## 프로젝트 개요
 굿닥 앱의 사용자 경험 일관성과 사용성을 높이기 위해, 챕터 리드 관점에서 전사 앱 UX 개선안을 제안하고 스쿼드별 실행을 리드했습니다.
@@ -32,10 +32,16 @@ thumbnail: "/assets/images/pdf-downsize/page-03.jpg"
 - 유지보수/확장 시 재사용 가능한 UI 패턴 기반 확보
 
 ## 포트폴리오 이미지
-![굿닥 앱 메인 흐름](/assets/images/pdf-downsize/page-03.jpg)
-![클리닉마켓 리스트 구조](/assets/images/pdf-downsize/page-04.jpg)
-![AB 테스트 기반 개선](/assets/images/pdf-downsize/page-05.jpg)
-![IA 플로우 정의](/assets/images/pdf-downsize/page-06.jpg)
+![프로젝트 커버](/assets/images/goodoc-ux-0415/page-01.jpg)
+![사용자 니즈 파악](/assets/images/goodoc-ux-0415/page-02.jpg)
+![문제 정의 및 가설](/assets/images/goodoc-ux-0415/page-03.jpg)
+![IA 개선 제안](/assets/images/goodoc-ux-0415/page-33.jpg)
+![UX 원칙 제안](/assets/images/goodoc-ux-0415/page-40.jpg)
+![홈 탭 구조 제안](/assets/images/goodoc-ux-0415/page-45.jpg)
+![검색 UX 개선](/assets/images/goodoc-ux-0415/page-49.jpg)
+![진료 탭 통합 제안](/assets/images/goodoc-ux-0415/page-51.jpg)
+![정보 구조 통합](/assets/images/goodoc-ux-0415/page-54.jpg)
+![시각적 위계 제안](/assets/images/goodoc-ux-0415/page-59.jpg)
 
 ## 한 줄 임팩트
 기능 단위 디자인이 아닌 제품 전체 관점에서 UX 표준을 정리해, 스쿼드가 달라도 같은 사용자 경험을 제공하도록 만들었습니다.
