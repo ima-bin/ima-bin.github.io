@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 <section class="section">
   <h1 class="h1">포트폴리오 · Portfolio</h1>
-  {% assign projects = site.projects | sort: 'order' %}
+  {% assign projects = site.projects | sort: 'order' | reverse %}
   <p class="sub">총 {{ projects | size }}개 프로젝트 · KPI 기준(문제 정의 → 가설 → 실행 → 성과)으로 정리했습니다. 각 페이지의 ▲[입력] 항목에 실제 수치를 넣으면 채용용 완성본이 됩니다.</p>
 
   <div class="grid">
