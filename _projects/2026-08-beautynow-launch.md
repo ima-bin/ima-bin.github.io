@@ -6,7 +6,7 @@ period: "2024 - Present"
 role: "Product Owner / Product Designer"
 summary: "일본 타겟의 뷰티·다이어트 특화 비대면진료 서비스 ‘뷰티나우’를 기획·출시하고, 초기 퍼널 최적화까지 리드한 프로젝트."
 stack: ["Figma", "Product Planning", "UX Strategy", "Marketing Analytics"]
-thumbnail: "/assets/images/doctornow-260214/page-04.jpg"
+thumbnail: "/assets/images/beautynow-260214/page-01.jpg"
 ---
 ## 프로젝트 개요
 뷰티·다이어트 니즈가 높은 일본 사용자군을 대상으로, 질환 중심이 아닌 라이프스타일 기반의 비대면진료 경험을 설계한 신규 서비스입니다. PO/디자이너로서 문제 정의, MVP 설계, 출시, 초기 지표 개선까지 제품 사이클 전반을 리드했습니다.
@@ -28,8 +28,8 @@ thumbnail: "/assets/images/doctornow-260214/page-04.jpg"
 - 빠른 실험-학습 루프를 통해 기능·메시지·플로우 고도화 기반 마련
 
 ## 포트폴리오 이미지
-![뷰티나우 서비스 콘셉트 및 핵심 화면](/assets/images/doctornow-260214/page-04.jpg)
-![핵심 퍼널/결제 프로세스 UX 설계](/assets/images/doctornow-260214/page-05.jpg)
+![뷰티나우 서비스 콘셉트 및 핵심 화면](/assets/images/beautynow-260214/page-01.jpg)
+![핵심 퍼널/결제 프로세스 UX 설계](/assets/images/beautynow-260214/page-02.jpg)
 
 ## 한 줄 임팩트
 명확한 타겟 정의와 MVP 실행 속도로, 신규 서비스의 시장 적합성 검증과 성장 기반을 함께 만든 프로젝트입니다.
