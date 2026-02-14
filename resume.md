@@ -34,11 +34,30 @@ permalink: /resume/
 
   <div class="card" style="margin-bottom:12px;">
     <h3>프리랜서 · Product/UIUX Designer</h3>
-    <p class="meta">2020.05 - 2022.09</p>
+    <p class="meta">2020.05 - 2022.09 (2년 5개월)</p>
     <ul>
-      <li>오노약품(일본) 암환자 커뮤니티·일정관리 툴 ‘Siens’ 디자인</li>
-      <li>프리미엄 데이팅 서비스 앱 UI 및 컴포넌트 설계</li>
-      <li>블록체인 기반 중고거래+보안메신저 앱 플로우 설계/핸드오프</li>
+      <li><strong>A. Siens (小野薬品 / 오노약품 일본)</strong> · 2022.01 - 2022.08
+        <ul>
+          <li>암환자 대상 커뮤니티·일정관리 툴 ‘Siens’ 모바일 웹 디자인</li>
+          <li>Rapid 프로토타입 제작</li>
+          <li>유저 여정을 반영한 IA 설계</li>
+          <li>사용 툴: Figma</li>
+        </ul>
+      </li>
+      <li><strong>B. 프리미엄 데이팅 서비스 ((주)둥글)</strong> · 2020.09 - 2021.01
+        <ul>
+          <li>엄선된 인증 회원 기반 매칭 서비스 앱 디자인</li>
+          <li>앱 디자인, 컴포넌트, 프로토타입 제작</li>
+          <li>사용 툴: Sketch, Zeplin</li>
+        </ul>
+      </li>
+      <li><strong>C. 멀티프로필 보안 메신저 ((주)탭픽)</strong> · 2020.02 - 2020.09
+        <ul>
+          <li>블록체인 기반 중고거래 마켓 + 멀티프로필 메신저(Flutter) 프로젝트</li>
+          <li>앱 Flow 설계 및 디자인 핸드오프</li>
+          <li>사용 툴: Sketch, Zeplin</li>
+        </ul>
+      </li>
     </ul>
   </div>
 
