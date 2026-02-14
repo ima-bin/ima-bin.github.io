@@ -63,11 +63,12 @@ permalink: /resume/
 
   <div class="card" style="margin-bottom:12px;">
     <h3>CyberAgent, Inc. (한국) · Designer & Marketer</h3>
-    <p class="meta">2016.09 - 2020.02 (3년 6개월) · 사원수 약 10명 · 글로벌 광고대행</p>
+    <p class="meta">2016.09 - 2020.02 (3년 6개월) · 사원수 약 10명 · 글로벌 광고대행(CyberZ)</p>
     <ul>
       <li>광고대행팀 크리에이티브 제작 및 디렉션</li>
       <li>광고주 획득을 위한 크리에이티브 로컬라이징 및 소재 제작(2D, 영상)</li>
       <li>광고소재 성과 분석 및 광고 개선안 제시</li>
+      <li>사용 툴: Photoshop, Illustrator, After Effects</li>
     </ul>
   </div>
 
