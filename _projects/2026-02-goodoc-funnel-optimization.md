@@ -1,30 +1,30 @@
 ---
 layout: project
-title: "의료광고 플랫폼 퍼널 최적화"
+title: "굿닥 Labs 신규 기능 디자인 (AI 챗봇 · 마이데이터)"
 order: 2
-period: "2022.09 - 2023.12"
-role: "Product Designer / Design Chapter Lead"
-summary: "의료 비급여 광고 플랫폼에서 퍼널 데이터와 A/B 테스트로 핵심 전환 경험을 개선한 프로젝트."
-stack: ["Figma", "Amplitude", "Hackle"]
-thumbnail: "/assets/images/project-goodoc-funnel.svg"
+period: "2023"
+role: "Product Designer"
+summary: "크로스 액티베이션과 사용자 정보 정확도 향상을 목표로 신규 기능을 빠르게 설계·출시한 프로젝트."
+stack: ["Figma", "Rapid Prototyping", "Product Design"]
+thumbnail: "/assets/images/pdf-downsize/page-07.jpg"
 ---
-## 문제 정의
-핵심 전환 단계에서 이탈이 크게 발생하고 있어, 감이 아닌 데이터 기반의 개선 체계가 필요했습니다.
+## 프로젝트 개요
+굿닥 Labs 스쿼드에서 매출 증대와 정확한 사용자 정보 획득을 목표로, 빠른 기능 추가 방식의 실험을 진행했습니다.
 
-## 가설
-- 정보 구조와 CTA 우선순위를 재설계하면 이탈이 줄고 전환이 증가한다.
-- 반복 실험 구조를 만들면 팀의 개선 속도와 품질 일관성이 함께 올라간다.
+## 문제
+- 사용자 재방문/활성화를 만들 수 있는 신규 가치 제안 필요
+- 건강 데이터와 서비스 경험을 연결하는 명확한 UX 필요
 
-## 내가 한 일
-- Amplitude 기반 퍼널 분석으로 드롭오프 구간 특정
-- IA/카피/버튼 구조 리디자인
-- Hackle 기반 A/B 테스트 설계 및 검증
-- 디자인 챕터 리드로 디자인시스템 품질 관리
+## 접근
+- 핵심 유즈케이스를 좁혀 MVP 단위로 기능 설계
+- AI 챗봇 질의 흐름과 가격/정보 탐색 경험 구성
+- 건강검진 연동 동의/진입 플로우를 사용자 관점으로 단순화
 
-## 결과
-- 데이터 기반 디자인 의사결정 프로세스 정착
-- 기능/화면 개선 우선순위 설정 정확도 향상
-- 스쿼드 간 UX 일관성 강화
+## 포트폴리오 이미지
+![굿닥 Labs 소개](/assets/images/pdf-downsize/page-07.jpg)
+![AI 챗봇 화면](/assets/images/pdf-downsize/page-08.jpg)
+![마이데이터 기획 배경](/assets/images/pdf-downsize/page-09.jpg)
+![건강검진 연동 플로우](/assets/images/pdf-downsize/page-10.jpg)
 
-## 배운 점
-좋은 디자인 결과는 단발성 산출물이 아니라, 반복 가능한 실험 시스템에서 나온다는 점을 체득했습니다.
+## 핵심 포인트
+빠른 실험이 필요한 조직에서 기능 범위를 정확히 압축해, 출시 속도와 사용자 이해도를 동시에 높였습니다.

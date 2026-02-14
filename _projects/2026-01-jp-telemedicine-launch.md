@@ -1,30 +1,32 @@
 ---
 layout: project
-title: "일본 비대면진료 서비스 런칭"
+title: "굿닥 클리닉마켓 UX 리뉴얼"
 order: 1
-period: "2024.01 - Present"
-role: "Product Designer / Product Owner"
-summary: "일본 시장 대상 비대면진료 서비스의 리서치, 로컬라이징, 런칭을 End-to-End로 리드한 프로젝트."
-stack: ["Figma", "Amplitude", "Meta Ads", "Google Ads", "Apple Search Ads"]
-thumbnail: "/assets/images/project-jp-telemedicine.svg"
+period: "2022 - 2023"
+role: "Product Designer"
+summary: "의료 비급여 광고 플랫폼의 탐색/전환 퍼널을 분석하고 IA·화면 구조를 재설계한 프로젝트."
+stack: ["Figma", "Amplitude", "Hackle", "UX Research"]
+thumbnail: "/assets/images/pdf-downsize/page-02.jpg"
 ---
-## 문제 정의
-한국에서 검증된 비대면진료 서비스를 일본 시장에 맞게 빠르게 안착시켜야 했습니다. 단순 번역이 아니라, 사용자 인지/신뢰/예약 행동이 달라지는 맥락을 반영한 재설계가 필요했습니다.
+## 프로젝트 개요
+굿닥 내 클리닉마켓 스쿼드에서 비대면진료 기능 확장에 맞춰, 광고 플랫폼의 사용자 플로우를 재구성하고 대규모 UX 리뉴얼을 진행했습니다.
 
-## 가설
-- 가입/예약/결제 핵심 플로우를 일본 사용자 기준으로 재정렬하면 퍼널 이탈이 감소한다.
-- 채널별 메시지와 랜딩 경험을 맞추면 유입 품질과 전환 효율이 개선된다.
+## 문제
+- 카테고리/리스트/상세 흐름에서 사용자가 빠르게 목적 시술을 찾기 어려움
+- 복잡한 진입 경로로 전환 직전 이탈이 발생
 
-## 내가 한 일
-- 사용자 조사 및 주요 진입 장벽 도출
-- 핵심 UX 플로우 로컬라이징 및 우선순위 설계
-- 광고 채널 운영(Meta/Google/Apple Search Ads) 및 성과 분석
-- 퍼널 분석 기반 개선안 도출 및 스프린트 반영
+## 접근
+- 퍼널 데이터 기반으로 주요 이탈 구간을 확인
+- IA 흐름도를 재정의해 화면 간 이동 경로 단순화
+- 카테고리/리스트의 정보 우선순위를 재구성
+- AB 테스트 결과를 반영해 디자인 반복 개선
 
-## 결과
-- 일본 서비스 출시 완료
-- 디자인·PO·마케팅이 연결된 운영 루프 구축
-- KPI 중심 협업 구조 정착
+## 포트폴리오 이미지
+![클리닉마켓 소개](/assets/images/pdf-downsize/page-02.jpg)
+![리뉴얼 주요 화면](/assets/images/pdf-downsize/page-03.jpg)
+![리스트/카테고리 구조](/assets/images/pdf-downsize/page-04.jpg)
+![AB 테스트 기반 개선](/assets/images/pdf-downsize/page-05.jpg)
+![IA 플로우 정의](/assets/images/pdf-downsize/page-06.jpg)
 
-## 배운 점
-로컬라이징의 핵심은 번역이 아니라, 사용자 행동 맥락을 다시 설계하는 것임을 확인했습니다.
+## 핵심 포인트
+데이터와 UX 구조를 함께 보며, 단순 화면 개선이 아닌 전환 흐름 전체를 리디자인했습니다.

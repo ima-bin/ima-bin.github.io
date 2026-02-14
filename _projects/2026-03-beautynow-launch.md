@@ -1,30 +1,30 @@
 ---
 layout: project
-title: "뷰티나우 신규 서비스 런칭"
+title: "PopPlays 서비스 컨셉 & 디자인 가이드"
 order: 3
-period: "2024"
-role: "Product Owner / Product Designer"
-summary: "다이어트·스킨케어 특화 비대면진료 서비스 ‘뷰티나우’를 기획부터 출시까지 리드한 프로젝트."
-stack: ["Figma", "Product Planning", "Marketing Analytics"]
-thumbnail: "/assets/images/project-beautynow.svg"
+period: "2022"
+role: "Product Designer"
+summary: "팝업스토어/전시 정보 탐색 플랫폼의 컨셉 정의부터 톤앤매너·핵심 기능 설계까지 진행한 프로젝트."
+stack: ["Figma", "Design System", "UX Strategy"]
+thumbnail: "/assets/images/pdf-downsize/page-11.jpg"
 ---
-## 문제 정의
-기존 의료 서비스 내에서 뷰티/라이프스타일 니즈에 특화된 사용자 기대를 만족시키기 어려웠고, 별도 가치 제안과 전용 경험 설계가 필요했습니다.
+## 프로젝트 개요
+외국인 관광객 포함 사용자들이 흩어진 팝업스토어/전시 정보를 더 쉽게 탐색하도록, 서비스 컨셉과 디자인 시스템의 기초를 구축했습니다.
 
-## 가설
-- 타겟 사용자 문제를 기준으로 MVP를 압축하면 출시 속도와 학습 속도를 동시에 확보할 수 있다.
-- 출시 후 KPI 추적 기반으로 기능 우선순위를 운영하면 제품 적합성을 빠르게 높일 수 있다.
+## 문제
+- 정보 출처가 분산되어 탐색 비용이 높음
+- 서비스 톤앤매너와 기능 구조가 명확하지 않아 확장성 부족
 
-## 내가 한 일
-- 문제 정의 및 MVP 범위 설정
-- 핵심 사용자 시나리오 기반 UX 플로우 설계
-- 출시 후 퍼널/채널 성과 추적 및 개선 백로그 운영
-- KPI 중심 팀 커뮤니케이션 리드
+## 접근
+- 유저 여정과 가치 제안을 먼저 정의
+- 무드보드/타이포/컬러 기반 톤앤매너 가이드 제작
+- 상세·지도·영업시간·리뷰 등 필수 기능 우선순위 수립
 
-## 결과
-- ‘뷰티나우’ 신규 서비스 출시
-- KPI 중심 협업 문화 강화
-- 사용자 피드백 기반의 반복 개선 체계 마련
+## 포트폴리오 이미지
+![PopPlays 프로젝트 소개](/assets/images/pdf-downsize/page-11.jpg)
+![유저 여정/무드보드](/assets/images/pdf-downsize/page-12.jpg)
+![디자인 가이드](/assets/images/pdf-downsize/page-13.jpg)
+![핵심 기능 정의](/assets/images/pdf-downsize/page-14.jpg)
 
-## 배운 점
-신규 서비스는 완성도 경쟁보다 학습 속도 경쟁이며, 빠른 검증 루프가 성패를 가른다는 점을 확인했습니다.
+## 핵심 포인트
+브랜드 감성과 사용성 사이의 균형을 잡아, 서비스 초기 단계에서 확장 가능한 디자인 방향을 만들었습니다.
