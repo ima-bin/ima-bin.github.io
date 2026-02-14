@@ -6,7 +6,7 @@ period: "2024 - Present"
 role: "Product Designer / Product Owner"
 summary: "일본 시장 대상 비대면진료 서비스 론칭을 위해 리서치·로컬라이징·마케팅·출시를 End-to-End로 리드한 프로젝트."
 stack: ["Figma", "User Research", "Localization", "Meta Ads", "Google Ads", "Apple Search Ads"]
-thumbnail: ""
+thumbnail: "/assets/images/doctornow-260214/page-01.jpg"
 ---
 ## 프로젝트 개요
 디자이너 겸 PO로서 일본 마켓에 닥터나우 서비스를 론칭하기 위해 사용자 조사, 로컬라이징, 마케팅, 출시 전 과정을 리드했습니다.
@@ -29,7 +29,9 @@ thumbnail: ""
 - 퍼널 기반 반복 개선 프로세스 정착
 
 ## 포트폴리오 이미지
-※ 이미지 추후 업데이트 예정 (PDF 수령 후 반영)
+![닥터나우 프로젝트 소개](/assets/images/doctornow-260214/page-01.jpg)
+![유입/가입 UX 및 퍼널 화면](/assets/images/doctornow-260214/page-02.jpg)
+![사용자 여정 기반 개선안](/assets/images/doctornow-260214/page-03.jpg)
 
 ## 한 줄 임팩트
 현지 사용자 맥락에 맞춘 제품 경험과 퍼포먼스 실행을 결합해, 일본 시장 진입의 실행력을 만든 프로젝트입니다.
