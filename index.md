@@ -17,8 +17,7 @@ permalink: /
     </div>
   </div>
   <div class="hero-photo-wrap">
-    <img class="hero-photo" src="{{ '/assets/images/profile-placeholder.svg' | relative_url }}" alt="Im Abin Profile" />
-    <p class="photo-hint">※ 실제 프로필 사진으로 교체: <code>/assets/images/profile.jpg</code></p>
+    <img class="hero-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Im Abin Profile" />
   </div>
 </section>
 
