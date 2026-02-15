@@ -213,5 +213,15 @@ permalink: /resume/portfolio-pdf/
       <figcaption class="meta" style="margin-top:8px;">Page 41</figcaption>
     </figure>
 
+    <figure class="card" style="margin:0; padding:10px;">
+      <img src="{{ '/assets/images/resume-pdf-260214/page-42.jpg' | relative_url }}" alt="포트폴리오 페이지 42" style="width:100%; height:auto; display:block; border-radius:10px;" loading="lazy" />
+      <figcaption class="meta" style="margin-top:8px;">Page 42</figcaption>
+    </figure>
+
+    <figure class="card" style="margin:0; padding:10px;">
+      <img src="{{ '/assets/images/resume-pdf-260214/page-43.jpg' | relative_url }}" alt="포트폴리오 페이지 43" style="width:100%; height:auto; display:block; border-radius:10px;" loading="lazy" />
+      <figcaption class="meta" style="margin-top:8px;">Page 43</figcaption>
+    </figure>
+
   </div>
 </section>
