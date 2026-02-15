@@ -37,6 +37,9 @@ thumbnail: "/assets/images/doctornow-260214/page-01.jpg"
 ![닥터나우 일본 론칭 프로젝트 개요](/assets/images/doctornow-260214/page-01.jpg)
 ![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/doctornow-260214/page-02.jpg)
 ![퍼널 기반 문제 정의와 개선 실행](/assets/images/doctornow-260214/page-03.jpg)
+![닥터나우 일본 론칭 추가 화면](/assets/images/doctornow-260214/page-04.png)
+
+한 줄 요약: 일본 사용자 신뢰 형성에 필요한 정보 전달 구조를 강화해, 예약과 진료 완료까지 이어지는 전환 흐름을 안정화했습니다.
 
 ## 한 줄 임팩트
 일본 사용자 맥락에 맞춘 로컬라이징과 퍼널 실험 체계를 결합해, 출시 성공과 학습 속도를 동시에 끌어올린 프로젝트입니다.
