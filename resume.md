@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 <section class="section">
   <h1 class="h1">경력 · Resume</h1>
+  <p><a href="{{ '/resume/portfolio-pdf/' | relative_url }}">포트폴리오 PDF 페이지 보기</a></p>
 
   <div class="card" style="margin-bottom:12px;">
     <h3>닥터나우 (Doctornow) · Product Designer / Product Owner</h3>
