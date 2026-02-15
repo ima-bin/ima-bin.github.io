@@ -5,8 +5,7 @@ permalink: /resume/portfolio-pdf/
 ---
 
 <section class="section">
-  <h1 class="h1">포트폴리오 PDF (이미지 뷰)</h1>
-  <p class="meta">페이지 순서대로 스크롤하며 보기 쉽게 정리했습니다.</p>
+  <h1 class="h1">포트폴리오</h1>
 
   <div style="display:grid; gap:18px; max-width:980px; margin:16px auto 0;">
     <figure class="card" style="margin:0; padding:10px;">
