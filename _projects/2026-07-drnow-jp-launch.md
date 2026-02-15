@@ -6,7 +6,7 @@ period: "2024 - Present"
 role: "Product Designer / Product Owner"
 summary: "일본 사용자 맥락에 맞춘 UX 로컬라이징과 퍼널 실험 체계를 구축해, 닥터나우 일본 론칭과 초기 성장 기반을 만든 프로젝트."
 stack: ["Figma", "User Research", "Localization", "Meta Ads", "Google Ads", "Apple Search Ads"]
-thumbnail: "/assets/images/doctornow-260214/page-01.jpg"
+thumbnail: "/assets/images/doctornow-260214/doctornow_thumb.png"
 ---
 ## 프로젝트 개요
 닥터나우의 일본 시장 론칭을 목표로, **리서치-로컬라이징-퍼널 개선-마케팅 연계**를 하나의 실행 체계로 통합 리드했습니다. 단순 번역이 아니라 일본 사용자의 신뢰 형성과 의료 이용 맥락에 맞춰 경험을 재설계해, 유입부터 진료 완료까지 전환 효율을 높이는 데 집중했습니다.
@@ -34,7 +34,7 @@ thumbnail: "/assets/images/doctornow-260214/page-01.jpg"
 - 퍼널 기반 반복 개선 프로세스를 구축해 성장 실험을 지속 가능한 구조로 전환
 
 ## 포트폴리오 이미지
-![닥터나우 일본 론칭 프로젝트 개요](/assets/images/doctornow-260214/page-01.jpg)
+![닥터나우 일본 론칭 프로젝트 개요](/assets/images/doctornow-260214/doctornow_thumb.png)
 ![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/doctornow-260214/page-02.jpg)
 ![퍼널 기반 문제 정의와 개선 실행](/assets/images/doctornow-260214/page-03.jpg)
 ![닥터나우 일본 론칭 추가 화면](/assets/images/doctornow-260214/page-04.png)
