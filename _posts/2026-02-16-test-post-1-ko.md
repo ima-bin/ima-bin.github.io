@@ -3,6 +3,10 @@ title: "가설부터 시작하는 UX 개선: 시행착오를 줄이는 3단계"
 date: 2026-02-16 11:05:00 +0900
 lang_label: "KO"
 ---
+![분석 대시보드 예시 이미지](/assets/blog/analytics-dashboard.jpg)
+
+_이미지 출처: Wikimedia Commons, [Dashboard for Fathom Analytics](https://commons.wikimedia.org/wiki/File:Dashboard_for_Fathom_Analytics.jpg)_
+
 UX 개선에서 가장 흔한 실수는 화면부터 고치는 것입니다. 실제로는 **문제 정의와 가설 정리**가 먼저입니다.
 
 이번 글에서는 제가 실무에서 자주 사용하는 3단계 접근을 정리합니다.

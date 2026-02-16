@@ -3,6 +3,10 @@ title: "디자인 우선순위, 감이 아니라 데이터로 정하는 방법"
 date: 2026-02-16 11:06:00 +0900
 lang_label: "KO"
 ---
+![팀 워크숍 장면](/assets/blog/team-workshop.jpg)
+
+_이미지 출처: Wikimedia Commons, [Team workshop](https://commons.wikimedia.org/wiki/File:Team_workshop.jpg)_
+
 리소스가 제한된 팀에서 중요한 건 "무엇을 먼저 만들 것인가"입니다. 저는 우선순위를 정할 때 아래 기준을 함께 봅니다.
 
 ## 1) 임팩트(Impact)
