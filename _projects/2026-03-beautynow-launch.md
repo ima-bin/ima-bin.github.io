@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "PopPlays 서비스 컨셉 & 디자인 가이드"
-order: 3
+order: 6
 period: "2022"
 role: "Product Designer"
 summary: "서비스 컨셉·톤앤매너·핵심 기능 구조를 정립해 초기 제품 완성도와 확장성을 높인 프로젝트."
