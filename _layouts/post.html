@@ -5,4 +5,20 @@ layout: default
   <h1 class="h1">{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: "%Y-%m-%d" }} · {{ page.lang_label }}</p>
   {{ content }}
+
+  {% assign related_posts = site.posts | where_exp: 'post', 'post.url != page.url' | limit: 3 %}
+  {% if related_posts.size > 0 %}
+  <section class="related-posts">
+    <h2>관련 글</h2>
+    <div class="grid">
+      {% for post in related_posts %}
+      <article class="card">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="meta">{{ post.date | date: "%Y-%m-%d" }} · {{ post.lang_label }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
 </article>

@@ -3,8 +3,31 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  {% assign meta_title = page.title | default: site.title %}
+  {% assign meta_description = page.description | default: site.description %}
+  {% assign canonical_url = page.url | absolute_url %}
+  {% assign og_image_path = page.og_image | default: site.og_image %}
+  {% if og_image_path %}
+    {% assign og_image_url = og_image_path | absolute_url %}
+  {% endif %}
+
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="description" content="{{ meta_description | escape }}" />
+  <link rel="canonical" href="{{ canonical_url }}" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+  <meta property="og:title" content="{{ meta_title | escape }}" />
+  <meta property="og:description" content="{{ meta_description | escape }}" />
+  <meta property="og:url" content="{{ canonical_url }}" />
+  {% if og_image_url %}<meta property="og:image" content="{{ og_image_url }}" />{% endif %}
+
+  <meta name="twitter:card" content="{% if og_image_url %}summary_large_image{% else %}summary{% endif %}" />
+  <meta name="twitter:title" content="{{ meta_title | escape }}" />
+  <meta name="twitter:description" content="{{ meta_description | escape }}" />
+  {% if og_image_url %}<meta name="twitter:image" content="{{ og_image_url }}" />{% endif %}
+
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32.png' | relative_url }}" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />

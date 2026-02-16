@@ -2,6 +2,8 @@
 title: "가설부터 시작하는 UX 개선: 시행착오를 줄이는 3단계"
 date: 2026-02-16 11:05:00 +0900
 lang_label: "KO"
+description: "문제 정의부터 가설 설정, 실험 학습 기록까지 UX 개선 시행착오를 줄이는 실무 3단계 프레임워크를 소개합니다."
+og_image: "/assets/blog/analytics-dashboard.jpg"
 ---
 ![분석 대시보드 예시 이미지](/assets/blog/analytics-dashboard.jpg)
 

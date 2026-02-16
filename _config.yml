@@ -1,6 +1,8 @@
 title: "Im Abin | Product Designer Portfolio"
 description: "Data-driven Product Designer / Product Owner"
 lang: ko-KR
+url: "https://ima-bin.github.io"
+og_image: "/assets/blog/analytics-dashboard.jpg"
 
 collections:
   projects:

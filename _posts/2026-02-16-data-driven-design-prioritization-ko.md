@@ -2,6 +2,8 @@
 title: "디자인 우선순위, 감이 아니라 데이터로 정하는 방법"
 date: 2026-02-16 11:06:00 +0900
 lang_label: "KO"
+description: "Impact·Confidence·Effort 기준으로 디자인 우선순위를 정하고 팀 합의를 빠르게 만드는 데이터 기반 의사결정 방법을 정리합니다."
+og_image: "/assets/blog/team-workshop.jpg"
 ---
 ![팀 워크숍 장면](/assets/blog/team-workshop.jpg)
 
