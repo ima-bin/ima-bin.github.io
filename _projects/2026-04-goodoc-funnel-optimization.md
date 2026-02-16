@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "굿닥 Labs 신규 기능 디자인 (AI 챗봇 · 마이데이터)"
-order: 4
+order: 5
 period: "2023"
 role: "Product Designer"
 summary: "MVP 단위로 신규 기능을 빠르게 설계·출시해 활성화 지표와 데이터 확보율 개선에 기여한 프로젝트."

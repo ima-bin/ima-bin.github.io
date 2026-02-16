@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "비대면 진료 서비스 '닥터나우' 일본 론칭"
-order: 1
+order: 8
 period: "2024 - Present"
 role: "Product Designer / Product Owner"
 summary: "일본 사용자 맥락에 맞춘 UX 로컬라이징과 퍼널 실험 체계를 구축해, 닥터나우 일본 론칭과 초기 성장 기반을 만든 프로젝트."

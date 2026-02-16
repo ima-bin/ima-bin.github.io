@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "굿닥 앱 UX 개선"
-order: 5
+order: 4
 period: "2022 - 2023"
 role: "Design Chapter Lead"
 summary: "챕터 리드로서 앱 전반 UX 개선안을 제안하고, 각 스쿼드 PO/FE와 합의해 실행한 프로젝트."

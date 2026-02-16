@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "스킨케어 전문 비대면진료 서비스 '뷰티나우' 론칭"
-order: 2
+order: 7
 period: "2024 - Present"
 role: "Product Owner / Product Designer"
 summary: "일본 타겟의 뷰티·다이어트 특화 비대면진료 서비스 ‘뷰티나우’를 기획·출시하고, 초기 퍼널 최적화까지 리드한 프로젝트."

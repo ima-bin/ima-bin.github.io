@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Ameba Meister 인플루언서 매칭 플랫폼"
-order: 8
+order: 1
 period: "2013 - 2014"
 role: "Product Designer (CyberAgent Japan)"
 summary: "광고주-인플루언서 매칭 플로우를 단순화해 참여 효율과 운영 생산성을 높인 웹 플랫폼 프로젝트."

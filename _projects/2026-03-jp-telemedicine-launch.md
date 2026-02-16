@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "굿닥 클리닉마켓 UX 리뉴얼"
-order: 3
+order: 6
 period: "2022 - 2023"
 role: "Product Designer"
 summary: "탐색-상세-예약 퍼널을 재설계해 핵심 전환율 개선을 리드한 프로젝트."
