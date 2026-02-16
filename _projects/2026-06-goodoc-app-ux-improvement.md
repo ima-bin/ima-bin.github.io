@@ -6,7 +6,7 @@ period: "2022 - 2023"
 role: "Design Chapter Lead"
 summary: "챕터 리드로서 앱 전반 UX 개선안을 제안하고, 각 스쿼드 PO/FE와 합의해 실행한 프로젝트."
 stack: ["Figma", "Design System", "Cross-squad Collaboration", "UX Improvement"]
-thumbnail: "/assets/images/goodoc-ux-0415/page-01.jpg"
+thumbnail: "/assets/images/goodoc-ux-0415/cover-03-04.png"
 ---
 ## 프로젝트 개요
 굿닥 앱의 사용자 경험 일관성과 사용성을 높이기 위해, 챕터 리드 관점에서 전사 앱 UX 개선안을 제안하고 스쿼드별 실행을 리드했습니다.
@@ -32,7 +32,7 @@ thumbnail: "/assets/images/goodoc-ux-0415/page-01.jpg"
 - 유지보수/확장 시 재사용 가능한 UI 패턴 기반 확보
 
 ## 포트폴리오 이미지
-![프로젝트 커버](/assets/images/goodoc-ux-0415/page-01.jpg)
+![프로젝트 커버](/assets/images/goodoc-ux-0415/cover-03-04.png)
 ![사용자 니즈 파악](/assets/images/goodoc-ux-0415/page-02.jpg)
 ![문제 정의 및 가설](/assets/images/goodoc-ux-0415/page-03.jpg)
 ![IA 개선 제안](/assets/images/goodoc-ux-0415/page-33.jpg)
