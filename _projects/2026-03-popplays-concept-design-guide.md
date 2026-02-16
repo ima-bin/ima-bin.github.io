@@ -2,7 +2,7 @@
 layout: project
 title: "PopPlays 서비스 컨셉 & 디자인 가이드"
 order: 3
-period: "2022"
+period: "2023"
 role: "Product Designer"
 summary: "서비스 컨셉·톤앤매너·핵심 기능 구조를 정립해 초기 제품 완성도와 확장성을 높인 프로젝트."
 stack: ["Figma", "Design System", "UX Strategy"]
@@ -22,8 +22,8 @@ thumbnail: "/assets/images/pdf-downsize/page-11.jpg"
 
 ## 성과
 - 디자인 의사결정 기준 문서화율: **100% (가이드 구축)**
-- 핵심 기능 정의-설계 리드타임: **[입력]% 단축**
-- 팀 내 화면 품질 편차: **▼[입력]%**
+- 핵심 기능 정의-설계 리드타임: **1M/D**
+- 팀 내 화면 품질 편차 **▼**
 
 ## 포트폴리오 이미지
 ![PopPlays 프로젝트 소개](/assets/images/pdf-downsize/page-11.jpg)
