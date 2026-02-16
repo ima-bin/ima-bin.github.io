@@ -11,12 +11,12 @@ permalink: /resume/
     <h3>닥터나우 (Doctornow) · Product Designer / Product Owner</h3>
     <p class="meta">2024.01 - Present · 사원수 약 50명 · 일본 사업부(6명)</p>
     <ul>
-      <li><strong>역할:</strong> 디자인, PO, 마케팅을 겸하며 일본 시장 진출을 위한 제품/성장 실행 리드</li>
-      <li><strong>사용자 조사 및 로컬라이징:</strong> 일본 사용자 맥락에 맞는 비대면진료 경험으로 서비스 구조 재설계</li>
-      <li><strong>출시 리드:</strong> 디자이너 겸 PO로 일본 내 비대면진료 서비스 ‘닥터나우’ 런칭</li>
-      <li><strong>퍼포먼스 마케팅:</strong> Meta, Google, Apple Search Ads 소재 세팅 및 결과 분석</li>
-      <li><strong>기능 기획:</strong> 마케팅 데이터/유저 퍼널 분석을 바탕으로 신규 피처 제안 및 실행</li>
-      <li><strong>주요 프로젝트:</strong> ‘닥터나우’ 일본 론칭, 다이어트·스킨케어 특화 비대면진료 서비스 ‘뷰티나우’ 론칭</li>
+      <li><strong>직무:</strong> 디자이너, PO, 마케터를 겸하며 일본 시장 진출을 위한 제품/성장 실행 리드</li>
+      <li><strong>사용자 조사 및 로컬라이징:</strong> 일본 사용자 여정에 맞는 비대면진료 경험으로 서비스 구조 재설계</li>
+      <li><strong>출시:</strong> 일본 내 비대면진료 서비스 ‘닥터나우’ 런칭</li>
+      <li><strong>마케터:</strong> Meta, Google, Apple Search Ads 소재 세팅 및 결과 분석(퍼포먼스 마케팅)</li>
+      <li><strong>기획:</strong> 마케팅 데이터(DAU, CPA 등)/유저 퍼널 분석을 바탕으로 신규 피처 제안 및 실행</li>
+      <li><strong>주요 프로젝트:</strong> 비대면진료 서비스 ‘닥터나우’ 일본 론칭, 다이어트·스킨케어 특화 비대면진료 서비스 ‘뷰티나우’ 일본 론칭</li>
     </ul>
   </div>
 
@@ -24,7 +24,7 @@ permalink: /resume/
     <h3>굿닥 (Goodoc) · Product Designer / Lead Designer</h3>
     <p class="meta">2022.09 - 2023.12 (1년 4개월) · 사원수 약 90명 · 클리닉 스쿼드(15명), 디자인 챕터 리드(6명)</p>
     <ul>
-      <li><strong>역할:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
+      <li><strong>직무:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
       <li><strong>데이터 기반 개선:</strong> Amplitude 유저 퍼널 분석 결과를 화면/플로우 개선에 반영</li>
       <li><strong>실험 기반 검증:</strong> Hackle 기반 디자인 A/B 테스트 설계 및 실행</li>
       <li><strong>챕터 리드:</strong> 전사 디자인 컨셉과 UX 방향성 정립</li>
