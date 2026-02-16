@@ -1,15 +1,17 @@
 ---
-title: "가설 중심 UX 개선: 시행착오를 줄이는 3단계"
+title: "가설 중심 UX 개선: AB테스트의 시행착오 줄이기"
 date: 2025-11-1 20:05:00 +0900
 lang_label: "KO"
 description: "문제 정의부터 가설 설정, 실험 학습 기록까지 UX 개선 시행착오를 줄이는 실무 3단계 프레임워크를 소개합니다."
 og_image: "/assets/blog/analytics-dashboard.jpg"
 ---
+
+# 가설 중심 UX 개선: AB테스트의 시행착오 줄이기
+
 ![분석 대시보드 예시 이미지](/assets/blog/analytics-dashboard.jpg)
 
 _이미지 출처: Wikimedia Commons, [Dashboard for Fathom Analytics](https://commons.wikimedia.org/wiki/File:Dashboard_for_Fathom_Analytics.jpg)_
 
-# 가설 중심 UX 개선: 시행착오를 줄이는 3단계
 
 UI/UX 개선은 주관적 판단에서 출발하기 쉽다.
 결과, 사람의 직관과 실제 성과가 엇갈리는 경우도 많았다.
@@ -18,7 +20,7 @@ AB테스트가 필요할 때, 우리 팀은 한 가지 프로세스를 붙들고
 **가설을 세우고 검증하는 과정**이다.
 이 방식은 시행착오를 줄여줄 뿐 아니라, 팀 논의를 객관적인 기준으로 바라볼 수 있다.
 
-###[프로세스]
+### [프로세스]
 1. **문제 영역을 좁힌다**
 2. **가설을 문장으로 명확히 쓴다**
 3. **테스트 후 레슨런을 팀 자산으로 남긴다**
