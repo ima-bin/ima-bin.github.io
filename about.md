@@ -3,37 +3,53 @@ layout: default
 title: About
 permalink: /about/
 ---
-<section class="section">
+<section class="section about-page">
   <h1 class="h1">소개 · About</h1>
-  <div class="card">
-    <p>
-      고등학교 때, 새로운 도전을 해보고 싶어 일본으로 유학했습니다. (이공계 한일공동국비장학생)
-      일본 회사에서 일하면서 ‘디자이너’라는 역할에만 머무르지 않고,
-      홍보팀과 홈페이지를 만들고 인사팀과 채용 세미나를 기획하는 등 다양한 협업을 경험했습니다.
+
+  <div class="about-hero card">
+    <p class="about-lead">
+      사용자 행동과 비즈니스 지표를 함께 설계하는 프로덕트 디자이너입니다.
+      작은 UX 변화가 큰 결과를 만든다는 믿음으로, 문제를 정의하고 실험하고 검증합니다.
     </p>
-    <p>
-      저는 숫자를 좋아하는 디자이너입니다.
-      게임, 광고, 의료 등 여러 분야에서 일하며 가장 흥미로웠던 점은,
-      작은 UX 변화가 사용자 행동을 크게 바꾼다는 사실이었습니다.
-      데이터를 통해 사용자 반응을 읽고 더 나은 방향으로 설계해,
-      실제 변화로 이어지게 만드는 과정에 큰 재미를 느낍니다.
-    </p>
-    <p>
-      디자인은 단순히 예쁘게 만드는 일을 넘어, 비즈니스에 영향을 주는 일이라고 생각합니다.
-      그래서 늘 책임감을 가지고 일하고, 마케터·엔지니어 등 다양한 직무의 동료들에게 배우며
-      제 방식으로 빠르게 적용하려고 노력합니다.
-    </p>
-    <p>
-      어제보다 조금 더 나아지는 것, 그리고 더 넓은 경험을 쌓는 것이 제가 일하는 방식입니다.
-      앞으로도 프로덕트 디자인을 통해 사용자와 비즈니스 모두에 의미 있는 가치를 만들고 싶습니다.
-    </p>
+    <div class="about-tags">
+      <span class="about-tag">Data-informed UX</span>
+      <span class="about-tag">Product Design</span>
+      <span class="about-tag">Cross-functional</span>
+      <span class="about-tag">KR · JP</span>
+    </div>
+  </div>
+
+  <div class="about-grid">
+    <article class="card about-col">
+      <h2>Background</h2>
+      <p>
+        고등학교 시절 새로운 도전을 위해 일본으로 유학했습니다. (이공계 한일공동국비장학생)
+        이후 일본 기업에서 디자이너로 일하며 직무 경계를 넘는 협업을 경험했습니다.
+      </p>
+      <p>
+        홍보팀과 홈페이지를 만들고, 인사팀과 디자이너 채용 세미나를 기획하는 등
+        다양한 부서와 함께 문제를 해결해왔습니다.
+      </p>
+    </article>
+
+    <article class="card about-col">
+      <h2>How I Work</h2>
+      <p>
+        저는 숫자를 좋아하는 디자이너입니다. 게임, 광고, 의료 분야를 거치며
+        작은 UX 변화가 사용자 행동을 바꾼다는 것을 반복해서 확인했습니다.
+      </p>
+      <p>
+        데이터로 반응을 읽고, 맥락을 해석해, 실행 가능한 설계로 연결합니다.
+        디자인은 화면이 아니라 성과로 증명된다고 생각합니다.
+      </p>
+    </article>
   </div>
 
   <h2>Working Style</h2>
   <div class="grid">
-    <article class="card"><h3>Problem First</h3><p>문제 정의와 KPI를 먼저 정렬하고, 솔루션은 실험으로 빠르게 검증합니다.</p></article>
-    <article class="card"><h3>Quant + Qual</h3><p>퍼널/로그 데이터와 사용자 맥락을 함께 보며 실행 우선순위를 결정합니다.</p></article>
-    <article class="card"><h3>Cross-functional</h3><p>디자인·개발·마케팅·운영 간 커뮤니케이션을 촘촘하게 연결합니다.</p></article>
-    <article class="card"><h3>Continuous Growth</h3><p>“어제보다 조금 더 나아지기”를 기준으로 반복 학습하고 개선합니다.</p></article>
+    <article class="card"><h3>Problem First</h3><p>기능보다 먼저 문제와 목표 지표를 정렬하고, 가설 중심으로 우선순위를 결정합니다.</p></article>
+    <article class="card"><h3>Measure Impact</h3><p>정성 피드백과 로그/퍼널 데이터를 함께 보며 개선안을 검증하고 다음 액션으로 연결합니다.</p></article>
+    <article class="card"><h3>Build with Team</h3><p>디자인·개발·마케팅·운영이 같은 그림을 보도록 커뮤니케이션 구조를 촘촘하게 설계합니다.</p></article>
+    <article class="card"><h3>Grow Continuously</h3><p>어제보다 조금 더 나은 선택을 목표로, 작은 개선을 빠르게 쌓아 제품의 완성도를 높입니다.</p></article>
   </div>
 </section>
