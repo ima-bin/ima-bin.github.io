@@ -36,6 +36,7 @@
   <header class="header">
     <div class="wrap nav">
       <a class="brand" href="{{ '/' | relative_url }}">Im Abin · Product Portfolio</a>
+      <a href="{{ '/' | relative_url }}">Home</a>
       {% for item in site.navigation %}
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
       {% endfor %}
