@@ -28,7 +28,7 @@ permalink: /blog/
             </div>
             {% if post.og_image %}
               <div class="blog-thumb-wrap">
-                <img class="blog-thumb" src="{{ post.og_image | relative_url }}" alt="{{ post.title }} 썸네일" loading="lazy">
+                <img class="blog-thumb no-zoom" src="{{ post.og_image | relative_url }}" alt="{{ post.title }} 썸네일" loading="lazy">
               </div>
             {% endif %}
           </div>

@@ -126,10 +126,12 @@ a:hover{text-decoration:underline}
   width:100%;
   height:100%;
   object-fit:cover;
+  object-position:center;
   margin:0 !important;
   border:0 !important;
   border-radius:0 !important;
   pointer-events:none;
+  cursor:default;
 }
 .blog-link h3{margin:0 0 4px;font-size:20px;line-height:1.35;letter-spacing:-.01em}
 .blog-excerpt{margin:10px 0 0;color:#4b5364}
