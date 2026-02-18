@@ -10,7 +10,7 @@ permalink: /about/
     <aside class="card about-left">
       <p class="about-eyebrow">Product Designer</p>
       <p class="about-lead">
-        사용자 행동과 비즈니스 지표를 함께 설계하는 디자이너입니다.
+        사용자 행동과 비즈니스 지표를 함께 설계하는 디자이너 임아빈 입니다.
         작은 UX 변화가 실제 성과로 이어지도록 문제를 정의하고,
         실험하고, 검증합니다.
       </p>
