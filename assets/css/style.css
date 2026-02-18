@@ -82,7 +82,7 @@ a:hover{text-decoration:underline}
 
 .about-page .h1{margin-bottom:14px}
 .about-split-grid{display:grid;grid-template-columns:minmax(250px,.9fr) minmax(0,1.6fr);gap:16px;align-items:start}
-.about-left{position:sticky;top:86px;padding:20px}
+.about-left{position:static;padding:20px}
 .about-eyebrow{margin:0 0 10px;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#4f5b72}
 .about-lead{font-size:18px;line-height:1.75;color:#1d2433;margin:0}
 .about-tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
