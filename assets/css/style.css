@@ -92,6 +92,16 @@ a:hover{text-decoration:underline}
 .about-block p{margin:0 0 10px}
 .about-block p:last-child{margin-bottom:0}
 
+.working-style-grid .ws-card{padding:16px 16px 15px}
+.ws-head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.ws-icon{
+  width:28px;height:28px;border-radius:8px;
+  display:inline-flex;align-items:center;justify-content:center;
+  background:#f4f6fb;border:1px solid #e2e8f3;font-size:14px;line-height:1;
+}
+.ws-card h3{margin:0;font-size:17px}
+.ws-card p{color:#4a5263}
+
 @media (max-width:900px){
   .about-split-grid{grid-template-columns:1fr}
   .about-left{position:static}

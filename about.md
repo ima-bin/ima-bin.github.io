@@ -50,10 +50,22 @@ permalink: /about/
   </div>
 
   <h2>Working Style</h2>
-  <div class="grid">
-    <article class="card"><h3>Problem First</h3><p>기능보다 먼저 문제와 목표 지표를 정렬하고, 가설 중심으로 우선순위를 결정합니다.</p></article>
-    <article class="card"><h3>Measure Impact</h3><p>정성 피드백과 로그/퍼널 데이터를 함께 보며 개선안을 검증하고 다음 액션으로 연결합니다.</p></article>
-    <article class="card"><h3>Build with Team</h3><p>디자인·개발·마케팅·운영이 같은 그림을 보도록 커뮤니케이션 구조를 촘촘하게 설계합니다.</p></article>
-    <article class="card"><h3>Grow Continuously</h3><p>어제보다 조금 더 나은 선택을 목표로, 작은 개선을 빠르게 쌓아 제품의 완성도를 높입니다.</p></article>
+  <div class="grid working-style-grid">
+    <article class="card ws-card">
+      <div class="ws-head"><span class="ws-icon">🎯</span><h3>Problem First</h3></div>
+      <p>기능보다 먼저 문제와 목표 지표를 정렬하고, 가설 중심으로 우선순위를 결정합니다.</p>
+    </article>
+    <article class="card ws-card">
+      <div class="ws-head"><span class="ws-icon">📊</span><h3>Measure Impact</h3></div>
+      <p>정성 피드백과 로그/퍼널 데이터를 함께 보며 개선안을 검증하고 다음 액션으로 연결합니다.</p>
+    </article>
+    <article class="card ws-card">
+      <div class="ws-head"><span class="ws-icon">🤝</span><h3>Build with Team</h3></div>
+      <p>디자인·개발·마케팅·운영이 같은 그림을 보도록 커뮤니케이션 구조를 촘촘하게 설계합니다.</p>
+    </article>
+    <article class="card ws-card">
+      <div class="ws-head"><span class="ws-icon">🌱</span><h3>Grow Continuously</h3></div>
+      <p>어제보다 조금 더 나은 선택을 목표로, 작은 개선을 빠르게 쌓아 제품의 완성도를 높입니다.</p>
+    </article>
   </div>
 </section>
