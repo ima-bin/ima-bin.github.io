@@ -2,7 +2,13 @@
 title: "데이터로 디자인할 때 놓치지 말아야 할 3가지"
 date: 2026-01-19
 lang_label: "KO"
+description: "데이터 기반 디자인에서 자주 놓치는 해석의 함정을 정리하고, 실무에서 바로 적용할 수 있는 3가지 기준을 제안합니다."
+og_image: "/assets/blog/analytics-dashboard.jpg"
 ---
+![분석 대시보드 예시 이미지](/assets/blog/analytics-dashboard.jpg)
+
+_이미지 출처: Wikimedia Commons, [Dashboard for Fathom Analytics](https://commons.wikimedia.org/wiki/File:Dashboard_for_Fathom_Analytics.jpg)_
+
 데이터는 정답이 아니라 단서입니다. 중요한 건 수치를 화면의 맥락으로 해석하는 일입니다.
 
 1. 지표가 아니라 사용자를 본다.
