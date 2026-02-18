@@ -3,11 +3,11 @@ title: "기업에서 디자인 리드가 해야 할 일"
 date: 2026-02-18 17:55:00 +0900
 lang_label: "KO"
 description: "목적조직과 기능조직에서 디자인 리드의 역할이 어떻게 달라지는지, 실무 중심으로 정리합니다."
-og_image: "/assets/blog/team-workshop.jpg"
+og_image: "/assets/blog/UIUX-designer-leader.webp"
 ---
-![디자인 팀 협업 장면](/assets/blog/team-workshop.jpg)
+![디자인 리더십 이미지](/assets/blog/UIUX-designer-leader.webp)
 
-_이미지 출처: Wikimedia Commons, [Team workshop](https://commons.wikimedia.org/wiki/File:Team_workshop.jpg)_
+_이미지 출처: 사용자 제공 이미지_
 
 디자인 리드라는 역할은 회사마다 이름은 비슷해도, 실제 해야 하는 일은 조직 구조에 따라 크게 달라집니다.
 
