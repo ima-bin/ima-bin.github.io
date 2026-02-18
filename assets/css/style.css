@@ -88,7 +88,7 @@ a:hover{text-decoration:underline}
 .about-tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
 .about-tag{font-size:12px;color:#334155;background:#f3f6fb;border:1px solid #dfe6f2;border-radius:999px;padding:6px 10px;font-weight:600}
 .about-right{display:grid;gap:16px}
-.about-block h2{font-size:22px;margin:0 0 10px}
+.about-block h2{font-size:18px;margin:0 0 10px;font-weight:700;color:#2a3345}
 .about-block p{margin:0 0 10px}
 .about-block p:last-child{margin-bottom:0}
 
