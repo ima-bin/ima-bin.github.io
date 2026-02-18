@@ -68,7 +68,7 @@
       const nextBtn = document.getElementById('imgLightboxNext');
       if (!lightbox || !lightboxImg || !closeBtn || !prevBtn || !nextBtn) return;
 
-      const projectImages = Array.from(document.querySelectorAll('.section img'));
+      const projectImages = Array.from(document.querySelectorAll('.section img:not(.blog-thumb)'));
       let currentIndex = -1;
 
       function updateImage() {
