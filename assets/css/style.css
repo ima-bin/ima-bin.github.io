@@ -107,9 +107,23 @@ a:hover{text-decoration:underline}
   .about-left{position:static}
 }
 
+.blog-page .sub{margin-bottom:14px}
+.blog-hero{padding:18px 20px;margin-bottom:14px;background:linear-gradient(180deg,#ffffff 0%,#f8fbff 100%)}
+.blog-hero-kicker{margin:0 0 6px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#4f5b72;font-weight:700}
+.blog-hero-text{margin:0;color:#2a3345}
+.blog-list{display:grid;gap:12px}
+.blog-card{padding:0;overflow:hidden;transition:transform .15s ease, box-shadow .15s ease,border-color .15s ease}
+.blog-card:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(16,19,26,.08);border-color:#dbe3f0}
+.blog-link{display:block;padding:16px 18px}
+.blog-link:hover{text-decoration:none}
+.blog-link h3{margin:0 0 4px;font-size:20px;line-height:1.35;letter-spacing:-.01em}
+.blog-excerpt{margin:10px 0 0;color:#4b5364}
+.blog-read{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:#3557a6}
+
 @media (max-width:780px){
   .h1{font-size:32px}
   .sub{font-size:16px}
   .grid{grid-template-columns:1fr}
   .about-lead{font-size:17px}
+  .blog-link h3{font-size:18px}
 }
