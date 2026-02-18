@@ -116,6 +116,8 @@ a:hover{text-decoration:underline}
 .blog-card:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(16,19,26,.08);border-color:#dbe3f0}
 .blog-link{display:block;padding:16px 18px}
 .blog-link:hover{text-decoration:none}
+.blog-thumb-wrap{margin:-16px -18px 12px;border-bottom:1px solid #e8edf5;background:#f3f6fb}
+.blog-thumb{display:block;width:100%;height:180px;object-fit:cover}
 .blog-link h3{margin:0 0 4px;font-size:20px;line-height:1.35;letter-spacing:-.01em}
 .blog-excerpt{margin:10px 0 0;color:#4b5364}
 .blog-read{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:#3557a6}
