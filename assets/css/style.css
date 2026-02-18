@@ -81,19 +81,25 @@ a:hover{text-decoration:underline}
 .footer{border-top:1px solid var(--line);margin-top:46px;padding:20px 0 36px;color:#697083;font-size:14px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
 
 .about-page .h1{margin-bottom:14px}
-.about-hero{padding:22px}
-.about-lead{font-size:19px;line-height:1.7;color:#202634;margin:0}
+.about-split-grid{display:grid;grid-template-columns:minmax(250px,.9fr) minmax(0,1.6fr);gap:16px;align-items:start}
+.about-left{position:sticky;top:86px;padding:20px}
+.about-eyebrow{margin:0 0 10px;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#4f5b72}
+.about-lead{font-size:18px;line-height:1.75;color:#1d2433;margin:0}
 .about-tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
 .about-tag{font-size:12px;color:#334155;background:#f3f6fb;border:1px solid #dfe6f2;border-radius:999px;padding:6px 10px;font-weight:600}
-.about-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:16px}
-.about-col h2{font-size:22px;margin:0 0 10px}
-.about-col p{margin:0 0 10px}
-.about-col p:last-child{margin-bottom:0}
+.about-right{display:grid;gap:16px}
+.about-block h2{font-size:22px;margin:0 0 10px}
+.about-block p{margin:0 0 10px}
+.about-block p:last-child{margin-bottom:0}
+
+@media (max-width:900px){
+  .about-split-grid{grid-template-columns:1fr}
+  .about-left{position:static}
+}
 
 @media (max-width:780px){
   .h1{font-size:32px}
   .sub{font-size:16px}
   .grid{grid-template-columns:1fr}
-  .about-grid{grid-template-columns:1fr}
   .about-lead{font-size:17px}
 }
