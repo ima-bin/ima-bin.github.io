@@ -19,15 +19,19 @@ permalink: /blog/
     {% for post in site.posts %}
       <article class="card blog-card">
         <a class="blog-link" href="{{ post.url | relative_url }}">
-          {% if post.og_image %}
-            <div class="blog-thumb-wrap">
-              <img class="blog-thumb" src="{{ post.og_image | relative_url }}" alt="{{ post.title }} 썸네일" loading="lazy">
+          <div class="blog-main">
+            <div class="blog-copy">
+              <h3>{{ post.title }}</h3>
+              <p class="meta">{{ post.date | date: "%Y-%m-%d" }}{% if post.lang_label %} · {{ post.lang_label }}{% endif %}</p>
+              <p class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+              <span class="blog-read">Read article →</span>
             </div>
-          {% endif %}
-          <h3>{{ post.title }}</h3>
-          <p class="meta">{{ post.date | date: "%Y-%m-%d" }}{% if post.lang_label %} · {{ post.lang_label }}{% endif %}</p>
-          <p class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          <span class="blog-read">Read article →</span>
+            {% if post.og_image %}
+              <div class="blog-thumb-wrap">
+                <img class="blog-thumb" src="{{ post.og_image | relative_url }}" alt="{{ post.title }} 썸네일" loading="lazy">
+              </div>
+            {% endif %}
+          </div>
         </a>
       </article>
     {% endfor %}
