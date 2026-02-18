@@ -3,11 +3,11 @@ title: "디자인 우선순위, 감이 아니라 데이터로 정하는 방법"
 date: 2025-12-16 11:06:00 +0900
 lang_label: "KO"
 description: "Reach·Impact·Confidence·Effort 기준으로 디자인 우선순위를 정하고 팀 합의를 빠르게 만드는 데이터 기반 의사결정 방법을 정리합니다."
-og_image: "/assets/blog/team-workshop.jpg"
+og_image: "/assets/blog/data-driven-decision.webp"
 ---
-![팀 워크숍 장면](/assets/blog/team-workshop.jpg)
+![데이터 기반 의사결정 이미지](/assets/blog/data-driven-decision.webp)
 
-_이미지 출처: Wikimedia Commons, [Team workshop](https://commons.wikimedia.org/wiki/File:Team_workshop.jpg)_
+_이미지 출처: [Taylor Mark, Medium - Data driven decision making: what you need to know](https://taylor-mark110.medium.com/data-driven-decision-making-what-you-need-to-know-1ff1cd82bc0e)_
 
 
 # 디자인 우선순위, 감이 아니라 데이터로 정하는 방법
