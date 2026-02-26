@@ -21,12 +21,37 @@ _사진: "Tokyo Crosswalk" by [Jezael Melgoza](https://unsplash.com/photos/7H77F
 3. 그에 맞춰 프로덕트 메시지/온보딩/주요 플로우를 어떻게 바꿔야 하는가?
 
 ## 2. 리서치 설계
-| 방법 | 목적 | 실행 방식 |
-| --- | --- | --- |
-| Desk Research | 시장 크기, 경쟁사 포지셔닝 파악 | METI 통계, App Store 리뷰, SimilarWeb 자료 수집 |
-| Expert Interview | 현지 도메인 이해 | 일본 현지 PM/디자이너 2인 인터뷰, 통역 동석 |
-| Diary Study | 사용 맥락/루틴 파악 | 잠재 유저 5명에게 7일 간 문제 상황 기록 요청 |
-| Prototype Test | 메시지/플로우 반응 확인 | Figma 프로토타입으로 8명 원격 세션 |
+<table>
+  <thead>
+    <tr>
+      <th>방법</th>
+      <th>목적</th>
+      <th>실행 방식</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desk Research</td>
+      <td>시장 크기, 경쟁사 포지셔닝 파악</td>
+      <td>METI 통계, App Store 리뷰, SimilarWeb 자료 수집</td>
+    </tr>
+    <tr>
+      <td>Expert Interview</td>
+      <td>현지 도메인 이해</td>
+      <td>일본 현지 PM/디자이너 2인 인터뷰, 통역 동석</td>
+    </tr>
+    <tr>
+      <td>Diary Study</td>
+      <td>사용 맥락/루틴 파악</td>
+      <td>잠재 유저 5명에게 7일 간 문제 상황 기록 요청</td>
+    </tr>
+    <tr>
+      <td>Prototype Test</td>
+      <td>메시지/플로우 반응 확인</td>
+      <td>Figma 프로토타입으로 8명 원격 세션</td>
+    </tr>
+  </tbody>
+</table>
 
 > 포인트: 리서치 루프를 1주 단위로 묶고, 매주 가설을 재정렬했다. 자료는 Miro 리서치 월에 정리해 다른 스테이크홀더가 댓글로 바로 피드백할 수 있게 했다.
 
