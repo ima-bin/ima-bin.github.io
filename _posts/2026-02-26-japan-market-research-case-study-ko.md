@@ -10,8 +10,6 @@ og_image: "/assets/blog/japan-market-research.jpg"
 
 _사진: "Tokyo Crosswalk" by [Jezael Melgoza](https://unsplash.com/photos/7H77FwUB_Z4)_
 
-> _이 글은 주인님 검토를 위한 더미 초안입니다. 전체 흐름과 섹션 구성을 먼저 확인한 뒤, 실제 수치와 아티팩트를 채워 넣을 예정입니다._
-
 ## 1. 배경과 목표 설정
 - **상황**: 국내에서 PMF를 확인한 뒤, 동일 콘셉트를 일본에 이식할 수 있을지 탐색.
 - **문제**: 일본 사용자의 구매 의사와 퍼널이 국내와 전혀 다르다는 가설이 있었으나, 근거가 부족함.
