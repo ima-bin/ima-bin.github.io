@@ -1,0 +1,7 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="680" fill="#1E1B4B"/>
+  <rect x="70" y="80" width="1060" height="520" rx="22" fill="#312E81" stroke="#4C1D95"/>
+  <text x="100" y="170" fill="#C4B5FD" font-size="28" font-family="Arial, sans-serif">Project 03</text>
+  <text x="100" y="240" fill="#FAF5FF" font-size="56" font-family="Arial, sans-serif" font-weight="700">뷰티나우 신규 서비스 런칭</text>
+  <text x="100" y="315" fill="#DDD6FE" font-size="30" font-family="Arial, sans-serif">MVP · Product Strategy · KPI</text>
+</svg>

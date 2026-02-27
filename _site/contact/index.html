@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  
+  
+  
+  
+  
+
+  <title>Contact | Im Abin | Product Designer Portfolio</title>
+  <meta name="description" content="Data-driven Product Designer / Product Owner" />
+  <link rel="canonical" href="http://localhost:4000/contact/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Im Abin | Product Designer Portfolio" />
+  <meta property="og:title" content="Contact" />
+  <meta property="og:description" content="Data-driven Product Designer / Product Owner" />
+  <meta property="og:url" content="http://localhost:4000/contact/" />
+  <meta property="og:image" content="http://localhost:4000/assets/images/og.png" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Contact" />
+  <meta name="twitter:description" content="Data-driven Product Designer / Product Owner" />
+  <meta name="twitter:image" content="http://localhost:4000/assets/images/og.png" />
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="wrap nav">
+      <a class="brand" href="/">Im Abin · Product Portfolio</a>
+      <a href="/">Home</a>
+      
+      <a href="/portfolio/">Portfolio</a>
+      
+      <a href="/resume/">Career</a>
+      
+      <a href="/about/">About</a>
+      
+      <a href="/blog/">Blog</a>
+      
+      <a href="/contact/">Contact</a>
+      
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="section">
+  <h1 class="h1">연락 · Contact</h1>
+  <div class="card">
+    <p>협업/채용 제안은 아래 이메일로 편하게 연락 주세요.</p>
+    <p><strong>Email</strong> · <a href="mailto:abinmobile@gmail.com">abinmobile@gmail.com</a></p>
+    <p><strong>GitHub</strong> · <a href="https://github.com/ima-bin" target="_blank" rel="noreferrer">github.com/ima-bin</a></p>
+  </div>
+</section>
+
+  </main>
+
+  <footer class="footer wrap">
+    <div>© 2026 Im Abin</div>
+    <div>Contact: <a href="mailto:abinmobile@gmail.com">abinmobile@gmail.com</a></div>
+  </footer>
+
+  <div id="imgLightbox" class="img-lightbox" aria-hidden="true">
+    <button class="img-lightbox-close" id="imgLightboxClose" aria-label="Close image">✕</button>
+    <button class="img-lightbox-nav prev" id="imgLightboxPrev" aria-label="Previous image">‹</button>
+    <img id="imgLightboxImage" src="" alt="Expanded image" />
+    <button class="img-lightbox-nav next" id="imgLightboxNext" aria-label="Next image">›</button>
+  </div>
+
+  <script>
+    (function () {
+      const lightbox = document.getElementById('imgLightbox');
+      const lightboxImg = document.getElementById('imgLightboxImage');
+      const closeBtn = document.getElementById('imgLightboxClose');
+      const prevBtn = document.getElementById('imgLightboxPrev');
+      const nextBtn = document.getElementById('imgLightboxNext');
+      if (!lightbox || !lightboxImg || !closeBtn || !prevBtn || !nextBtn) return;
+
+      const projectImages = Array.from(document.querySelectorAll('.section img:not(.blog-thumb)'));
+      let currentIndex = -1;
+
+      function updateImage() {
+        if (currentIndex < 0 || currentIndex >= projectImages.length) return;
+        const img = projectImages[currentIndex];
+        lightboxImg.src = img.src;
+        lightboxImg.alt = img.alt || 'Expanded image';
+      }
+
+      function openLightbox(index) {
+        currentIndex = index;
+        updateImage();
+        lightbox.classList.add('open');
+        lightbox.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeLightbox() {
+        lightbox.classList.remove('open');
+        lightbox.setAttribute('aria-hidden', 'true');
+        lightboxImg.src = '';
+        document.body.style.overflow = '';
+      }
+
+      function showPrev() {
+        if (!projectImages.length) return;
+        currentIndex = (currentIndex - 1 + projectImages.length) % projectImages.length;
+        updateImage();
+      }
+
+      function showNext() {
+        if (!projectImages.length) return;
+        currentIndex = (currentIndex + 1) % projectImages.length;
+        updateImage();
+      }
+
+      projectImages.forEach((img, index) => {
+        img.classList.add('zoomable-image');
+        img.addEventListener('click', () => openLightbox(index));
+      });
+
+      closeBtn.addEventListener('click', closeLightbox);
+      prevBtn.addEventListener('click', showPrev);
+      nextBtn.addEventListener('click', showNext);
+
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) closeLightbox();
+      });
+
+      document.addEventListener('keydown', (e) => {
+        if (!lightbox.classList.contains('open')) return;
+        if (e.key === 'Escape') closeLightbox();
+        if (e.key === 'ArrowLeft') showPrev();
+        if (e.key === 'ArrowRight') showNext();
+      });
+    })();
+  </script>
+</body>
+</html>

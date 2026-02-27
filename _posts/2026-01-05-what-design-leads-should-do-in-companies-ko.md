@@ -6,7 +6,6 @@ description: "목적조직과 기능조직에서 디자인 리드의 역할이 �
 og_image: "/assets/blog/UIUX-designer-leader.webp"
 ---
 ![디자인 리더십 이미지](/assets/blog/UIUX-designer-leader.webp)
-
 _이미지 출처: 사용자 제공 이미지_
 
 디자인 리드라는 직책은 이름은 같아도 조직 구조에 따라 요구하는 일이 완전히 달라진다. 어떤 회사에서는 제품 목표를 끝까지 물고 늘어져야 하고, 어떤 회사에서는 디자인 조직의 기준과 성장 체계를 세팅하는 게 더 중요하다.

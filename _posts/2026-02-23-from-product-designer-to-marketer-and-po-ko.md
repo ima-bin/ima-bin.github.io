@@ -6,11 +6,12 @@ description: "글로벌 스쿼드에서 디자이너가 마케터와 PO를 겸�
 og_image: "/assets/blog/product-designer-to-po.jpg"
 ---
 
-![글로벌 스쿼드 협업 장면](/assets/blog/product-designer-to-po.jpg)
+나는 약 7년이 넘게 프로덕트 디자이너로 일해 왔다. 그러다 회사 전략으로 실험적인 해외 사업을 시도하는 글로벌 스쿼드가 꾸려졌고, 나는 개발자 두 명과 디자이너 한 명뿐인 팀에서 유일한 디자인 실무자가 됐다. 문제는 마케터도 없고 PO도 없다는 것. 그래서 "일단 네가 해봐"라는 말과 함께 마케터를 겸직하게 되었다.
 
+
+![글로벌 스쿼드 협업 장면](/assets/blog/product-designer-to-po.jpg)
 _사진: "desk work" by [daiya](https://www.daiyak.co.jp/work_en/item/deskwork.html)
 
-나는 약 7년이 넘게 프로덕트 디자이너로 일해 왔다. 그러다 회사 전략으로 실험적인 해외 사업을 시도하는 글로벌 스쿼드가 꾸려졌고, 나는 개발자 두 명과 디자이너 한 명뿐인 팀에서 유일한 디자인 실무자가 됐다. 문제는 마케터도 없고 PO도 없다는 것. 그래서 "일단 네가 해봐"라는 말과 함께 마케터를 겸직하게 되었다.
 
 ## 디자이너가 마케터 모드를 켰을 때
 

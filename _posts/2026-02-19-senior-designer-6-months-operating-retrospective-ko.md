@@ -6,15 +6,14 @@ description: "챕터 단위 시니어 디자이너 역할을 6개월 수행하�
 og_image: "/assets/blog/senior-designer.webp"
 ---
 
-![시니어 디자이너 이미지](/assets/blog/senior-designer.webp)
-
-
 조직 개편 이후 챕터 단위 시니어 디자이너 역할을 맡았다.  
 6개월 동안의 핵심 과제는 다음 세 가지였다.
 
 - 스쿼드 실행 속도 유지
 - 디자이너 의사결정 품질 상향
 - 챕터 단위 정렬(비전/운영)
+
+![시니어 디자이너 이미지](/assets/blog/senior-designer.webp)
 
 ## 1. 초기 접근과 한계
 
