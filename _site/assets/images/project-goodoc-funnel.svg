@@ -1,7 +1,0 @@
-<svg width="1200" height="680" viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="680" fill="#111827"/>
-  <rect x="70" y="80" width="1060" height="520" rx="22" fill="#1F2937" stroke="#374151"/>
-  <text x="100" y="170" fill="#86EFAC" font-size="28" font-family="Arial, sans-serif">Project 02</text>
-  <text x="100" y="240" fill="#F9FAFB" font-size="56" font-family="Arial, sans-serif" font-weight="700">의료광고 플랫폼 퍼널 최적화</text>
-  <text x="100" y="315" fill="#D1D5DB" font-size="30" font-family="Arial, sans-serif">Amplitude · A/B Test · Conversion</text>
-</svg>
