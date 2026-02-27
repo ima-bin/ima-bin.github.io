@@ -3,7 +3,12 @@ title: "시니어 디자이너 6개월 운영 회고"
 date: 2026-02-19 13:40:00 +0900
 lang_label: "KO"
 description: "챕터 단위 시니어 디자이너 역할을 6개월 수행하며 정리한 운영 방식 전환과 실행 인사이트."
+og_image: "/assets/blog/senior-designer.webp"
 ---
+
+![시니어 디자이너 이미지](/assets/blog/senior-designer.webp)
+
+_by Me_
 
 조직 개편 이후 챕터 단위 시니어 디자이너 역할을 맡았다.  
 6개월 동안의 핵심 과제는 다음 세 가지였다.
