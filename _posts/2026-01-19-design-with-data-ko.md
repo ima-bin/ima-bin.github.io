@@ -1,13 +1,12 @@
 ---
 title: "데이터로 디자인할 때 놓치지 말아야 할 3가지"
-date: 2026-01-19
+date: 2026-01-19 17:55:00 +0900
 lang_label: "KO"
 description: "데이터 기반 디자인에서 자주 놓치는 해석의 함정을 정리하고, 실무에서 바로 적용할 수 있는 3가지 기준을 제안합니다."
 og_image: "/assets/blog/data-driven-design.avif"
 ---
 ![데이터 기반 디자인 일러스트](/assets/blog/data-driven-design.avif)
 
-_이미지 출처: 직접 제작(사용자 제공 이미지)_
 
 데이터는 정답이 아니라 단서입니다. 중요한 건 수치를 화면의 맥락으로 해석하는 일입니다.
 

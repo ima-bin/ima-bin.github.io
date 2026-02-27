@@ -1,6 +1,6 @@
 ---
 title: "기업에서 디자인 리드가 해야 할 일"
-date: 2026-02-18 17:55:00 +0900
+date: 2026-01-05 17:55:00 +0900
 lang_label: "KO"
 description: "목적조직과 기능조직에서 디자인 리드의 역할이 어떻게 달라지는지, 실무 중심으로 정리합니다."
 og_image: "/assets/blog/UIUX-designer-leader.webp"
