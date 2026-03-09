@@ -3,8 +3,11 @@ title: "프로덕트 디자이너가 스마트하게 실무에 AI 활용하기"
 date: 2026-03-10 08:30:00 +0900
 lang_label: "KO"
 description: "회의록을 프롬프트로 전환하고 Figma AI와 아이디어 발산에 활용하며, 실무 디자이너가 AI를 스마트하게 쓰는 과정을 공유한다."
-og_image: "/assets/blog/team-workshop.jpg"
+og_image: "/assets/blog/ai-for-product-designers.jpg"
 ---
+
+![AI 활용 중인 디자이너](/assets/blog/ai-for-product-designers.jpg)
+_이미지 출처: [HealthEco](https://www.healtheco.media/data/photos/20240729/art_17214417451688_aba257.jpg)_
 
 처음엔 나도 AI를 잘못 쓰고 있었다. ChatGPT에 "이 화면 어떻게 개선하면 좋을까요?"라고 물어보고, 뻔한 답을 받고 닫았다. 기대만큼 쓸모가 없었다. 하지만 1년이 지난 지금은 다르다. 기대했던 방향은 아니지만, 실무 루틴에 깊숙이 들어온 몇 가지 방법이 생겼다.
 
