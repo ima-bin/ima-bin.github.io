@@ -89,6 +89,18 @@ thumbnail: "/assets/images/beautynow-260214/page-01.jpg"
 - 타겟 정의가 명확할수록 브랜딩, UX, 메시지, KPI가 동일한 방향을 바라보게 됨
 
 ## 포트폴리오 이미지
+![BeautyNow 제품 피벗 개요 슬라이드](/assets/images/beautynow-portfolio/service02-01.png)
+_비급여 진료 기반 약 구매 서비스로의 피벗 배경과 역할/성과를 요약한 메인 슬라이드._
+
+![데이터 인사이트로 발견한 비급여 수요](/assets/images/beautynow-portfolio/service02-03.png)
+_닥터나우 일본 퍼널 데이터와 시장 리서치로 BeautyNow 타겟을 정의한 자료._
+
+![구매형 UX 중심의 MVP 설계](/assets/images/beautynow-portfolio/service02-05.png)
+_"탐색 → 진료 → 결제" 3-Step 플로우와 기존 닥터나우와의 구조 차이를 정리한 화면._
+
+![출시 후 퍼널/매출 성장 추이](/assets/images/beautynow-portfolio/service02-07.png)
+_전환율·재방문율·매출이 개선된 지표 그래프와 정량 결과 정리._
+
 ![뷰티나우 서비스 콘셉트 및 핵심 화면](/assets/images/beautynow-260214/page-01.jpg)
 ![핵심 퍼널/결제 프로세스 UX 설계](/assets/images/beautynow-260214/page-02.jpg)
 
