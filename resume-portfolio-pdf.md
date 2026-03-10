@@ -2,7 +2,7 @@
 layout: default
 title: Resume PDF
 permalink: /resume/portfolio-pdf/
-page_count: 52
+page_count: 84
 ---
 
 <section class="section">
