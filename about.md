@@ -35,7 +35,7 @@ permalink: /about/
         <ul>
           <li>일본 닥터나우 팀에서 온보딩·진료 플로우를 현지화하고, 뷰티나우 제품 피벗을 리드</li>
           <li>개발/마케팅/의료영업을 묶는 스프린트 구조를 설계해 실행 속도와 재현성을 확보</li>
-          <li>KR·JP 양국어로 데이터 리뷰, 투자자 미팅, 채용 세션까지 직접 진행</li>
+          <li>KR·JP 양국어로 데이터 리뷰, 투자자 미팅까지 직접 진행</li>
         </ul>
       </article>
 
@@ -46,7 +46,7 @@ permalink: /about/
         </p>
         <ul>
           <li>정량(로그/퍼널)과 정성(인터뷰/CS)을 같은 보드에서 분석해 의사결정 속도를 높입니다.</li>
-          <li>디자인 산출물은 Figma에서 끝나지 않습니다. 런칭 직후 리포트를 자동화하고, 다음 실험 브리프까지 함께 전달합니다.</li>
+          <li>디자인 산출물은 Figma에서 끝나지 않습니다. 런칭 직후 리포트를 자동화하고, 다음 실험 브리프까지 함께 공유합니다.</li>
           <li>"왜 이 기능을 해야 하는가"에 답할 수 없으면 시작하지 않습니다. 목표 지표와 성공 기준을 문서로 고정합니다.</li>
         </ul>
       </article>
@@ -65,11 +65,11 @@ permalink: /about/
     </article>
     <article class="card ws-card">
       <div class="ws-head"><span class="ws-icon">🤝</span><h3>Build with Team</h3></div>
-      <p>의사·마케터·엔지니어가 같은 언어를 쓰도록 KR·JP 더블 언어 회의록과 의사결정 로그를 직접 관리합니다.</p>
+      <p>디자이너·마케터·엔지니어가 같은 언어를 쓰도록 회의록과 의사결정 로그를 디자인과 함께 관리합니다.</p>
     </article>
     <article class="card ws-card">
       <div class="ws-head"><span class="ws-icon">🌱</span><h3>Grow Continuously</h3></div>
-      <p>주차별 레트로와 ToC(Theory of Change) 업데이트를 통해 학습 결과를 팀 자산으로 남깁니다.</p>
+      <p>스프린트별 KPT(Keep, Problem, Try)회고 통해 학습 결과를 팀 자산으로 남깁니다.</p>
     </article>
   </div>
 </section>
