@@ -12,7 +12,7 @@ collections:
 navigation:
   - title: "Portfolio"
     url: "/portfolio/"
-  - title: "Career"
+  - title: "Resume"
     url: "/resume/"
   - title: "About"
     url: "/about/"
