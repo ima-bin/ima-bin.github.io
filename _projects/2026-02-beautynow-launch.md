@@ -89,20 +89,35 @@ thumbnail: "/assets/images/beautynow-260214/page-01.jpg"
 - 타겟 정의가 명확할수록 브랜딩, UX, 메시지, KPI가 동일한 방향을 바라보게 됨
 
 ## 포트폴리오 이미지
-![BeautyNow 제품 피벗 개요 슬라이드](/assets/images/beautynow-portfolio/service02-01.png)
-_비급여 진료 기반 약 구매 서비스로의 피벗 배경과 역할/성과를 요약한 메인 슬라이드._
+![BeautyNow 성장 지표와 매출 곡선](/assets/images/beautynow-portfolio/service02-07.png)
+_런칭 이후 주차별 퍼널/매출 데이터를 시각화해 전환율 4배, 매출 +314% 성장 과정을 보여준 슬라이드._
 
-![데이터 인사이트로 발견한 비급여 수요](/assets/images/beautynow-portfolio/service02-03.png)
-_닥터나우 일본 퍼널 데이터와 시장 리서치로 BeautyNow 타겟을 정의한 자료._
+![뷰티나우 제품 피벗 개요](/assets/images/beautynow-portfolio/service02-01.png)
+_기존 닥터나우를 BeautyNow로 피벗하게 된 배경, 담당 역할, 전달가치를 한 장에 정리한 소개 페이지._
 
-![구매형 UX 중심의 MVP 설계](/assets/images/beautynow-portfolio/service02-05.png)
-_"탐색 → 진료 → 결제" 3-Step 플로우와 기존 닥터나우와의 구조 차이를 정리한 화면._
+![프레젠테이션 목차 및 스토리라인](/assets/images/beautynow-portfolio/service02-02.png)
+_기회 발굴 → 전략 → 결과 → 회고 순으로 스토리를 설계해 채용·투자자 대상 발표에 사용한 목차 슬라이드._
 
-![출시 후 퍼널/매출 성장 추이](/assets/images/beautynow-portfolio/service02-07.png)
-_전환율·재방문율·매출이 개선된 지표 그래프와 정량 결과 정리._
+![데이터 기반 타겟 정의](/assets/images/beautynow-portfolio/service02-03.png)
+_일본 닥터나우 퍼널 분석으로 비급여 수요(17.5%+)를 발견하고, 경쟁 서비스 리서치를 결합해 타겟을 재정의한 자료._
 
-![뷰티나우 서비스 콘셉트 및 핵심 화면](/assets/images/beautynow-260214/page-01.jpg)
-![핵심 퍼널/결제 프로세스 UX 설계](/assets/images/beautynow-260214/page-02.jpg)
+![닥터나우 vs 뷰티나우 구조 비교](/assets/images/beautynow-portfolio/service02-04.png)
+_치료 중심과 약 구매 중심 사용자 여정을 분리해야 하는 이유와 기존 진료 플로우를 시각적으로 비교한 화면._
+
+![Key UX Decisions – 진료 단계 최소화](/assets/images/beautynow-portfolio/service02-05-1.png)
+_처방형 5-Step 플로우를 3-Step 구매 플로우로 축소한 결정과 AS-IS/TO-BE 프로세스를 설명한 슬라이드._
+
+![Key UX Decisions – 증상 기반 약 탐색](/assets/images/beautynow-portfolio/service02-05-2.png)
+_증상 선택 → 추천 세트 → 제품 상세로 이어지는 2Depth 구조와 인터랙션을 정리한 화면._
+
+![Key UX Decisions – 약 중심 홈 구조](/assets/images/beautynow-portfolio/service02-05-3.png)
+_PC 웹 기준으로 카테고리/상세 2단 구조를 제시하며 가격·배송 신뢰 요소를 강조한 디자인 시안._
+
+![MVP 범위와 제품 차별화](/assets/images/beautynow-portfolio/service02-05.png)
+_탐색→진료→결제 3단계 MVP 범위와 닥터나우 대비 목표·수익 구조 차이를 도식화한 자료._
+
+![런칭 후 정량 성과 정리](/assets/images/beautynow-portfolio/service02-06.png)
+_주차별 전환율 추이, 30/60일 리텐션, 타겟 검증 메시지를 한눈에 요약한 성과 리포트._
 
 ## 한 줄 임팩트
 데이터에서 발견한 비급여 니즈를 **3주 만의 MVP와 반복 실험**으로 검증해, 전환율 4배·매출 3배 이상 성장을 만든 제품 피벗입니다.
