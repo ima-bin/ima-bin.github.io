@@ -73,44 +73,85 @@ permalink: /about/
     </article>
   </div>
 
-  <hr class="about-divider" />
+  <section class="about-feature-section">
+    <div class="card about-feature-intro">
+      <h2>나의 특징</h2>
+      <p>
+        디자인은 화면을 그리는 일이 아니라 문제를 정리하고 끝까지 책임지는 일이라는 믿음으로 일합니다.
+        아래 사례 카드를 중심으로 제가 제품을 어떻게 움직였는지를 정리했습니다.
+      </p>
+    </div>
 
-  <div class="card about-longform">
-    <h2>나의 특징</h2>
-    <p>
-      디자인은 화면을 그리는 일이 아니라 문제를 정리하고 끝까지 책임지는 일이라는 믿음으로 일합니다.
-      아래는 제가 어떤 방식으로 제품을 움직여 왔는지, 사례로 서술해보았습니다.
-    </p>
+    <div class="grid feature-grid">
+      <article class="card about-feature-card">
+        <div class="feature-head">
+          <span class="ws-icon">01</span>
+          <div>
+            <h3>문제를 데이터로 구조화</h3>
+            <p class="feature-sub">온보딩부터 피벗까지, 정량·정성 데이터를 한 루프로 묶습니다.</p>
+          </div>
+        </div>
+        <ul>
+          <li>GA4·Amplitude로 권한/로그인 구간 이탈 45%를 특정하고, 인터뷰 10건으로 원인을 검증해 온보딩 단계를 5 → 3단계로 축소했습니다.</li>
+          <li>비급여 키워드 클릭률 상승을 근거로 ‘BeautyNowʼ 피벗을 제안, 3주 MVP 출시와 첫 진료 전환율 4배·매출 +314%를 만들었습니다.</li>
+          <li>2주 1회 실험 루프에서 Hackle A/B 테스트와 퍼널을 연결해 예약 완료율을 45% → 52%로 끌어올렸습니다.</li>
+        </ul>
+      </article>
 
-    <h3>1. 문제를 데이터로 구조화합니다</h3>
-    <ul>
-      <li>닥터나우 일본 론칭 초기에 GA4·Amplitude로 온보딩 이탈(권한·로그인 구간 45% 이상)을 특정하고, 인터뷰 10건을 병행해 원인을 검증했습니다. 권한 안내 시점과 로그인 방식을 조정해 온보딩 단계를 5 → 3개로 축소했고, 완료율과 진료 전환율 모두 즉시 반등했습니다.</li>
-      <li>Amplitude 이벤트 분석에서 비급여(다이어트·스킨케어) 키워드 클릭 비중이 두 자릿수를 넘는다는 사실을 확인하고, 경쟁·시장 리서치를 결합해 ‘BeautyNowʼ 피벗을 제안했습니다. 3주 만에 MVP를 출시하고, 첫 진료 전환율 4배·매출 +314% 성장으로 이어졌습니다.</li>
-      <li>굿닥 클리닉 스쿼드에서는 2주 1회 실험 루프를 굴리며 Hackle A/B 테스트와 이벤트 데이터를 연결했습니다. 일러스트 소재를 활용한 광고는 CTR을 2배 끌어올렸고, 예약 플로우 개선으로 이벤트 신청 완료율을 45% → 52%로 높였습니다.</li>
-    </ul>
+      <article class="card about-feature-card">
+        <div class="feature-head">
+          <span class="ws-icon">02</span>
+          <div>
+            <h3>시각과 지표를 함께 증명</h3>
+            <p class="feature-sub">브랜딩·UI·광고 소재를 직접 설계하고 결과 지표로 닫습니다.</p>
+          </div>
+        </div>
+        <ul>
+          <li>일본 의료 앱부터 CyberAgent 게임까지 다양한 톤을 리드하며 CTR·전환율을 개선했습니다.</li>
+          <li>디자인 시스템, 토큰, 스토리북을 새로 정비해 QA 이슈와 핸드오프 손실을 줄였습니다.</li>
+        </ul>
+      </article>
 
-    <h3>2. 시각과 데이터 둘 다 결과로 증명합니다</h3>
-    <ul>
-      <li>광고 소재, 앱 UI, 브랜딩까지 직접 설계해 CTR과 전환율을 개선해 왔습니다. 일본 의료 앱, 국내 굿닥, CyberAgent 게임 프로젝트(그런지/아르누보 등)까지 다양한 톤앤매너를 리드했습니다.</li>
-      <li>디자인 시스템을 새로 구축해 컴포넌트 중복과 QA 이슈를 줄이고, Figma 라이브러리·토큰·스토리북까지 정리했습니다. “예쁜 것”보다 “멈추지 않는 UX”에 집중합니다.</li>
-    </ul>
+      <article class="card about-feature-card">
+        <div class="feature-head">
+          <span class="ws-icon">03</span>
+          <div>
+            <h3>쉽게 느껴지는 구조 설계</h3>
+            <p class="feature-sub">사용자 리터러시를 고려해 프로세스를 다시 쪼갭니다.</p>
+          </div>
+        </div>
+        <ul>
+          <li>복잡한 의료 용어를 시각화하고 필수 입력만 남겨 CS 문의를 절반으로 줄였습니다.</li>
+          <li>예약 UI와 플로우를 재설계해 시간 선택 사용률과 전체 전환율을 동시에 높였습니다.</li>
+        </ul>
+      </article>
 
-    <h3>3. 쉽게 느껴지는 구조를 만듭니다</h3>
-    <ul>
-      <li>일본 사용자의 디지털 리터러시를 고려해 복잡한 의료 용어와 절차를 다시 쪼갰습니다. 예약 경로를 시각화하고 필수 입력만 남겨 CS 문의를 절반으로 줄였습니다.</li>
-      <li>진료 예약 시 가장 큰 이탈 요인이었던 “원하는 시간 선택”을 해결하기 위해 UI와 플로우를 재설계했고, 시간 선택 사용률과 전체 전환율을 모두 끌어올렸습니다.</li>
-    </ul>
+      <article class="card about-feature-card">
+        <div class="feature-head">
+          <span class="ws-icon">04</span>
+          <div>
+            <h3>협업과 실행 리드</h3>
+            <p class="feature-sub">PO·디자이너·마케터 역할을 넘나들며 실행 루틴을 세웁니다.</p>
+          </div>
+        </div>
+        <ul>
+          <li>스프린트 운영·실험 리포트·KPI 공유를 루틴화해 론칭 팀을 리드했습니다.</li>
+          <li>Amplitude 리포트와 프레젠테이션으로 조직 동의를 얻고, 피벗 제안도 4주 안에 출시까지 연결했습니다.</li>
+          <li>의사·약국·사용자 인터뷰 인사이트를 정량 지표와 묶어 팀이 같은 언어로 논의하도록 만들었습니다.</li>
+        </ul>
+      </article>
 
-    <h3>4. 협업과 실행을 리드합니다</h3>
-    <ul>
-      <li>일본 론칭 당시 PO·디자이너·마케터 역할을 동시에 수행하며 스프린트 운영, 실험 리포트, KPI 공유, 리스크 관리를 루틴으로 돌렸습니다.</li>
-      <li>Amplitude 리포트와 프레젠테이션으로 개발·사업팀의 실행 동의를 얻었고, 피벗 제안도 4주 안에 출시까지 연결했습니다.</li>
-      <li>의사·약국·사용자 인터뷰를 직접 진행하고, 정성 인사이트를 정량 지표로 연결해 팀이 같은 언어로 의사결정하도록 돕습니다.</li>
-    </ul>
-
-    <h3>5. 제가 다루는 도구</h3>
-    <p>
-      Figma, Illustrator, Photoshop, After Effects, Amplitude, GA4, Hackle, Airbridge, Meta Ads Manager, Notion, Slack, Jira, Figma AI, ChatGPT, NanoBanana 등. 도구는 “사용할 수 있음”이 아니라 “지표 개선 경험이 있음”을 기준으로 기록합니다.
-    </p>
-  </div>
+      <article class="card about-feature-card">
+        <div class="feature-head">
+          <span class="ws-icon">05</span>
+          <div>
+            <h3>새로운 툴 탐구</h3>
+            <p class="feature-sub">툴 리스트는 “사용 경험”이 아니라 “지표 개선 경험” 기준으로 기록합니다.</p>
+          </div>
+        </div>
+        <p>UI/UX Figma, Stitch, Illustrator, Photoshop, After Effects, Amplitude, GA4, Hackle, Airbridge, Meta Ads Manager, Notion, Slack, Jira, Figma AI, ChatGPT, NanoBanana 등.</p>
+        <p>툴을 도입하면 리포트 자동화, 실험 브리프 공유, 협업 로그까지 연결해 팀 자산으로 남깁니다.</p>
+      </article>
+    </div>
+  </section>
 </section>

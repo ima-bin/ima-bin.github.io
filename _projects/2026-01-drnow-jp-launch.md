@@ -4,7 +4,7 @@ title: "비대면 진료 서비스 '닥터나우' 일본 론칭"
 order: 8
 period: "2024.01 - Present"
 role: "Product Designer / Product Owner"
-summary: "법·문화·사용자 맥락이 전혀 다른 일본 시장에 맞춰 UX를 재설계하고, 데이터 기반 퍼널 실험 체계를 구축해 진료 신청 완주율을 끌어올린 프로젝트."
+summary: "법·문화·사용자 맥락이 전혀 다른 일본 시장에 맞춰 UX를 재설계하고, 데이터 기반 퍼널 실험 체계를 구축해 진료 신청 전환율을 끌어올린 프로젝트."
 stack: ["Figma", "User Research", "Localization", "Amplitude", "Airbridge", "Meta Ads", "Google Ads", "Apple Search Ads"]
 thumbnail: "/assets/images/doctornow-260214/doctornow_thumb.png"
 ---
@@ -39,14 +39,56 @@ thumbnail: "/assets/images/doctornow-260214/doctornow_thumb.png"
 - 일본 음식 배달 컨벤션을 차용한 **배송 현황 추적** UI + 약사웹 집하 프로세스 → 배송 CS 80% 감소
 
 ## 측정된 성과
-| 지표 | 이전 | 이후 | 결과 |
-| --- | --- | --- | --- |
-| 권한 요청 구간 이탈 | 기준 | -36% | 온보딩 마찰 제거 |
-| 예약 전환율 | 9.43% | 12.5% | +3.07pp (캘린더 슬롯 실험) |
-| 진료신청 완료율 | 40.9% | 47.2% | +6.3pp (자동매칭 플로우) |
-| 3일 이상 예약 비중 | <10% | ≥40% | 일본식 예약 행동 확보 |
-| 배송 관련 CS | 100% | 20% | 80% 감소 (배송 추적·약사웹 업데이트) |
-| 계정 관련 CS | 25건/월 | 0~1건/월 | 이메일 로그인 + 기존 수단 안내 |
+<div class="card metrics-table">
+<table>
+  <thead>
+    <tr>
+      <th>지표</th>
+      <th>이전</th>
+      <th>이후</th>
+      <th>결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>권한 요청 구간 이탈</td>
+      <td>기준</td>
+      <td>-36%</td>
+      <td>온보딩 마찰 제거</td>
+    </tr>
+    <tr>
+      <td>예약 전환율</td>
+      <td>9.43%</td>
+      <td>12.5%</td>
+      <td>+3.07pp (캘린더 슬롯 실험)</td>
+    </tr>
+    <tr>
+      <td>진료신청 완료율</td>
+      <td>40.9%</td>
+      <td>47.2%</td>
+      <td>+6.3pp (자동매칭 플로우)</td>
+    </tr>
+    <tr>
+      <td>3일 이상 예약 비중</td>
+      <td>&lt;10%</td>
+      <td>≥40%</td>
+      <td>일본식 예약 행동 확보</td>
+    </tr>
+    <tr>
+      <td>배송 관련 CS</td>
+      <td>100%</td>
+      <td>20%</td>
+      <td>80% 감소 (배송 추적·약사웹 업데이트)</td>
+    </tr>
+    <tr>
+      <td>계정 관련 CS</td>
+      <td>25건/월</td>
+      <td>0~1건/월</td>
+      <td>이메일 로그인 + 기존 수단 안내</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## 나의 역할
 - **Research & Localization**: 사용자·의사 인터뷰, 경쟁 리서치, 카피/증상 구조 정의

@@ -95,6 +95,20 @@ a:hover{text-decoration:underline}
 .about-block p:last-child{margin-bottom:0}
 
 .working-style-grid .ws-card{padding:16px 16px 15px}
+.about-feature-section{margin-top:26px;display:flex;flex-direction:column;gap:16px}
+.about-feature-intro p{margin:0}
+.feature-grid{margin-top:6px}
+.feature-head{display:flex;gap:12px;align-items:flex-start;margin-bottom:8px}
+.feature-head h3{margin:0}
+.feature-sub{margin:4px 0 0;font-size:14px;color:var(--muted)}
+.about-feature-card ul{margin:0;padding-left:20px}
+.about-feature-card ul li{margin-bottom:6px}
+.about-feature-card ul li:last-child{margin-bottom:0}
+.metrics-table{overflow-x:auto;padding:0}
+.metrics-table table{width:100%;border-collapse:collapse;font-size:15px}
+.metrics-table th,.metrics-table td{padding:12px;border:1px solid var(--line);text-align:left;vertical-align:top}
+.metrics-table thead th{background:#f4f6fb;color:#2a3345;font-weight:700}
+.metrics-table tbody tr:nth-child(even){background:#fbfcff}
 .ws-head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
 .ws-icon{
   width:28px;height:28px;border-radius:8px;
