@@ -43,7 +43,7 @@ _이미지 출처: 나_
 프롬프트가 완성되면 먼저 Figma AI에 그것을 집어넣어 와이어프레임을 만든다. 약 2~3패턴 정도 만들어본다. 
 
 
-01 ![figma tool](/assets/blog/ai-figma-firstdraft1.png) | 02 ![figma tool](assets/blog/ai-figma-firstdraft2.png)
+01 ![figma tool](/assets/blog/ai-figma-firstdraft1.png) | 02 ![figma tool](/assets/blog/ai-figma-firstdraft2.png)
 -|-|
 
 <table>
@@ -51,7 +51,7 @@ _이미지 출처: 나_
     <td>
       <!-- 이미지 여러 개를 <td> 안에 배치 -->
       <img src="/assets/blog/ai-figma-firstdraft1.png" width="100" alt="figma tool1">
-      <img src="assets/blog/ai-figma-firstdraft2.png" width="100" alt="figma tool2">
+      <img src="/assets/blog/ai-figma-firstdraft2.png" width="100" alt="figma tool2">
     </td>
   </tr>
 </table>
