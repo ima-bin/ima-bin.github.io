@@ -43,15 +43,11 @@ _이미지 출처: 나_
 프롬프트가 완성되면 먼저 Figma AI에 그것을 집어넣어 와이어프레임을 만든다. 약 2~3패턴 정도 만들어본다. 
 
 
-01 ![figma tool](/assets/blog/ai-figma-firstdraft1.png) | 02 ![figma tool](/assets/blog/ai-figma-firstdraft2.png)
--|-|
-
 <table>
   <tr>
     <td>
-      <!-- 이미지 여러 개를 <td> 안에 배치 -->
-      <img src="/assets/blog/ai-figma-firstdraft1.png" width="100" alt="figma tool1">
-      <img src="/assets/blog/ai-figma-firstdraft2.png" width="100" alt="figma tool2">
+      <img src="/assets/blog/ai-figma-firstdraft1.png" width="50" alt="figma tool1">
+      <img src="/assets/blog/ai-figma-firstdraft2.png" width="50" alt="figma tool2">
     </td>
   </tr>
 </table>
@@ -60,8 +56,7 @@ _이미지 출처: 나_
 
 BeautyNow 랜딩페이지의 경우, 기본 레이아웃이 잡히는 데 20분도 걸리지 않았다.
 
-![AI가 만든 초안 실제 사례1](/assets/blog/ai-PC.png) | ![AI가 만든 초안 실제 사례1](/assets/blog/ai-mobile.png)
----|---|
+![AI가 만든 초안 실제 사례1](/assets/blog/ai-PC.png)
 
 
 그날 오후에 바로 프론트엔드 개발자와 리뷰를 돌릴 수 있었다. 구현 난이도 체크, 섹션 순서 조정, 모바일 대응 구조 논의까지 한 번에 했다. 나중에 법률 검토도 받았는데, 약품 광고 관련 문구를 수정해야 할 부분이 생겼다. 그것도 와이어프레임 단계에서 먼저 구조가 잡혀 있으니 수정이 훨씬 빨랐다.
