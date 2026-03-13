@@ -46,6 +46,15 @@ _이미지 출처: 나_
 01 ![figma tool](/assets/blog/ai-figma-firstdraft1.png) | 02 ![figma tool](assets/blog/ai-figma-firstdraft2.png)
 -|-|
 
+<table>
+  <tr>
+    <td>
+      <!-- 이미지 여러 개를 <td> 안에 배치 -->
+      <img src="/assets/blog/ai-figma-firstdraft1.png" width="100" alt="figma tool1">
+      <img src="assets/blog/ai-figma-firstdraft2.png" width="100" alt="figma tool2">
+    </td>
+  </tr>
+</table>
 
 이것은 완벽하진 않아도 압도적으로 빠르고, PC·모바일 대응 구조를 포함하는 것은 물론 레이어 이름도 깔끔하게 정리하여 기본 레이아웃을 잡아준다. 이것을 사용하면 미팅 당일에 바로 기능 리뷰를 돌릴 수 있어 결과적으로 피쳐를 개발하는 속도가 크게 오른다. 
 
