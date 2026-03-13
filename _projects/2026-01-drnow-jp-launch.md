@@ -102,10 +102,18 @@ thumbnail: "/assets/images/doctornow-260214/doctornow_thumb.png"
 - 로그인/권한과 같은 필수 단계도 **시점 재배치**를 통해 체감 난도를 낮출 수 있음을 검증
 
 ## 포트폴리오 이미지
-![닥터나우 일본 론칭 프로젝트 개요](/assets/images/doctornow-260214/doctornow_thumb.png)
-![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/doctornow-260214/page-02.jpg)
-![퍼널 기반 문제 정의와 개선 실행](/assets/images/doctornow-260214/page-03.jpg)
-![닥터나우 일본 론칭 추가 화면](/assets/images/doctornow-260214/page-04.png)
+![닥터나우 일본 론칭 프로젝트 개요](/assets/images/resume-pdf-260214/page-02.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-11.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-13.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-14.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-15.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-17.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-19.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-22.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-25.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-26.jpg)
+![일본 사용자 맥락을 반영한 핵심 플로우 설계](/assets/images/resume-pdf-260214/page-27.jpg)
+
 
 ## 한 줄 임팩트
 일본 사용자 맥락에 맞춘 로컬라이징과 퍼널 실험 체계를 결합해, **진료 신청 완주율을 높이며 출시 속도와 운영 안정성을 동시에 확보**했습니다.

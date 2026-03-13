@@ -47,6 +47,8 @@ _이미지 출처: 나_
   <tr>
     <td>
       <img src="/assets/blog/ai-figma-firstdraft1.png" width="50" alt="figma tool1">
+    </td>
+    <td>
       <img src="/assets/blog/ai-figma-firstdraft2.png" width="50" alt="figma tool2">
     </td>
   </tr>
