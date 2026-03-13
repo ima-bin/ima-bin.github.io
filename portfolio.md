@@ -13,7 +13,7 @@ permalink: /portfolio/
       <a class="card" href="{{ p.url | relative_url }}">
         <span class="thumb-wrap">
           {% if p.thumbnail %}
-            <img src="{{ p.thumbnail | relative_url }}" alt="{{ p.title }} thumbnail" style="width:100%;height:170px;object-fit:cover;display:block;" />
+            <img src="{{ p.thumbnail | relative_url }}" alt="{{ p.title }} thumbnail" class="thumb-img" />
           {% else %}
             <span class="thumb">Project Preview</span>
           {% endif %}
