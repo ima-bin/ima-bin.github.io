@@ -74,7 +74,7 @@ permalink: /about/
   </div>
 
   <section class="about-feature-section">
-    <div class="card about-feature-intro">
+    <div class="about-feature-intro">
       <h2>나의 특징</h2>
       <p>
         디자인은 화면을 그리는 일이 아니라 문제를 정리하고 끝까지 책임지는 일이라는 믿음으로 일합니다.
