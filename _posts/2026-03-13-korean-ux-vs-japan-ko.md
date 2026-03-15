@@ -34,11 +34,7 @@ _이미지 출처: [pinterest](https://www.pinterest.com/pin/650488739916434394/
   <tbody>
     <tr>
       <td>3일 이상 예약 비중</td>
-    </tr>
-    <tr>
       <td> < 10% </td>
-    </tr>
-    <tr>
       <td> ≥ 40% </td>
     </tr>
   </tbody>
