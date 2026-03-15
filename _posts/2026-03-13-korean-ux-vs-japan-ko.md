@@ -66,11 +66,7 @@ _이미지 출처: [pinterest](https://www.pinterest.com/pin/650488739916434394/
   <tbody>
     <tr>
       <td>진료 신청 완료율</td>
-    </tr>
-    <tr>
       <td>  40.9% </td>
-    </tr>
-    <tr>
       <td> 47.2% </td>
     </tr>
   </tbody>
