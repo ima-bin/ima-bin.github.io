@@ -17,6 +17,14 @@ body{
 }
 a{color:inherit;text-decoration:none}
 a:hover{text-decoration:underline}
+.post-content pre,
+.section pre,
+pre{
+  white-space:pre-wrap;
+  word-break:break-word;
+  overflow-wrap:anywhere;
+  overflow-x:auto;
+}
 .wrap{max-width:1020px;margin:0 auto;padding:0 22px}
 
 .header{
