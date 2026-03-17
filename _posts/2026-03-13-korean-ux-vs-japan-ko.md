@@ -22,6 +22,8 @@ _이미지 출처: [pinterest](https://www.pinterest.com/pin/650488739916434394/
 
 > **해결:** 3일 이후 슬롯을 강조하고, 캘린더 탐색 구조를 "주 단위"로 확장했다.
 
+![한국 일본 UX 비교](/assets/blog/dn_schedule_beforafter.png)
+
 <div class="card metrics-table">
 <table>
   <thead>
