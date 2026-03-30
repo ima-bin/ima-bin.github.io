@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "디자이너 면접관으로 쓰는 채용 이야기"
-date: 2026-03-30
+date: 2026-03-27 13:24:00 +0900
+lang_label: "KO"
+og_image: "/assets/blog/interview.jpeg"
 tags: [디자인, 면접, 채용]
+
 ---
 
 디자이너로 일하다 보니 어느 순간 면접관 자리에 앉게 되었다.  
