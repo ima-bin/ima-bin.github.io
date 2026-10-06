@@ -20,7 +20,7 @@ permalink: /resume/
 
   <div class="card" style="margin-bottom:12px;">
     <h3>닥터나우 (Doctornow) · Product Designer / Product Owner</h3>
-    <p class="meta">2024.01 - Present · 사원수 약 50명 · 일본 사업부(6명)</p>
+    <p class="meta">2024.01 - 2026.04 · 사원수 약 50명 · 일본 사업부(6명)</p>
     <ul>
       <li><strong>직무:</strong> 디자이너, PO, 마케터를 겸하며 일본 시장 진출을 위한 제품/성장 실행 리드</li>
       <li><strong>사용자 조사 및 로컬라이징:</strong> 일본 사용자 여정에 맞는 비대면진료 경험으로 서비스 구조 재설계</li>
@@ -38,7 +38,7 @@ permalink: /resume/
       <li><strong>직무:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
       <li><strong>데이터 기반 개선:</strong> Amplitude 유저 퍼널 분석 결과를 화면/플로우 개선에 반영</li>
       <li><strong>실험 기반 검증:</strong> Hackle 기반 디자인 A/B 테스트 설계 및 실행</li>
-      <li><strong>챕터 리드:</strong> 전사 디자인 컨셉과 UX 방향성 정립</li>
+      <li><strong>챕터:</strong> 전사 디자인 컨셉과 UX 방향성 정립</li>
       <li><strong>플랫폼 품질 관리:</strong> 챕터 디자이너와 함께 앱 전반 디자인시스템 및 일관 UX 운영</li>
       <li><strong>사용 툴:</strong> Figma</li>
     </ul>
