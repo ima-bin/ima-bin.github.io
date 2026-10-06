@@ -8,6 +8,17 @@ permalink: /resume/
   <p><a href="{{ '/resume/portfolio-pdf/' | relative_url }}">포트폴리오 PDF 페이지 보기 ▶︎</a></p>
 
   <div class="card" style="margin-bottom:12px;">
+    <h3>GC메디아이 · 기획자</h3>
+    <p class="meta">2026.05 - Present</p>
+    <ul>
+      <li><strong>직무:</strong> EMR 원무 모듈 기획 및 UX 설계</li>
+      <li><strong>NextEMR:</strong> 운영 버전 EMR 차트의 원무 모듈 기획 및 디자인</li>
+      <li><strong>CloudEMR:</strong> 신규 EMR 차트의 원무 모듈(병원 접수·수납) 기획 및 UX 설계</li>
+      <li><strong>산출물:</strong> PRD 작성 및 프로토타입 제작</li>
+    </ul>
+  </div>
+
+  <div class="card" style="margin-bottom:12px;">
     <h3>닥터나우 (Doctornow) · Product Designer / Product Owner</h3>
     <p class="meta">2024.01 - Present · 사원수 약 50명 · 일본 사업부(6명)</p>
     <ul>
@@ -21,7 +32,7 @@ permalink: /resume/
   </div>
 
   <div class="card" style="margin-bottom:12px;">
-    <h3>굿닥 (Goodoc) · Product Designer / Lead Designer</h3>
+    <h3>굿닥 (Goodoc) · Product Designer</h3>
     <p class="meta">2022.09 - 2023.12 (1년 4개월) · 사원수 약 90명 · 클리닉 스쿼드(15명), 디자인 챕터 리드(6명)</p>
     <ul>
       <li><strong>직무:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
