@@ -33,7 +33,7 @@ permalink: /resume/
 
   <div class="card" style="margin-bottom:12px;">
     <h3>굿닥 (Goodoc) · Product Designer</h3>
-    <p class="meta">2022.09 - 2023.12 (1년 4개월) · 사원수 약 90명 · 클리닉 스쿼드(15명), 디자인 챕터 리드(6명)</p>
+    <p class="meta">2022.09 - 2023.12 (1년 4개월) · 사원수 약 90명 · 클리닉 스쿼드(15명), 디자인 챕터(6명)</p>
     <ul>
       <li><strong>직무:</strong> 의료 비급여 시장(피부미용·성형·건강검진) 광고 플랫폼 UX 디자인</li>
       <li><strong>데이터 기반 개선:</strong> Amplitude 유저 퍼널 분석 결과를 화면/플로우 개선에 반영</li>
