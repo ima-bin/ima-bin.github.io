@@ -3,8 +3,8 @@ layout: project
 title: "굿닥 앱 UX 개선"
 order: 4
 period: "2022 - 2023"
-role: "Design Chapter Lead"
-summary: "챕터로서 앱 전반 UX 개선안을 제안하고, 각 스쿼드 PO/FE와 합의해 실행한 프로젝트."
+role: "Product Designer"
+summary: "디자인 챕터로서 앱 전반 UX 개선안을 제안하고, 각 스쿼드 PO/FE와 합의해 실행한 프로젝트."
 stack: ["Figma", "Design System", "Cross-squad Collaboration", "UX Improvement"]
 thumbnail: "/assets/images/goodoc-ux-0415/cover-03-04.png"
 ---
@@ -12,7 +12,7 @@ thumbnail: "/assets/images/goodoc-ux-0415/cover-03-04.png"
 굿닥 앱의 사용자 경험 일관성과 사용성을 높이기 위해, 챕터 관점에서 전사 앱 UX 개선안을 제안하고 스쿼드별 실행을 리드했습니다.
 
 ## 담당 업무
-- 챕터로서 앱 UX 개선 과제 발굴 및 우선순위 제안
+- 디자인 챕터로서 앱 UX 개선 과제 발굴 및 우선순위 제안
 - 각 스쿼드 PO, FE와 요구사항/개발 범위 합의
 - 디자인 시스템 및 화면 패턴 기준 정리
 - 스쿼드별 적용 과정에서 디자인 품질/일관성 리뷰
